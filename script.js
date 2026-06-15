@@ -127,5 +127,14 @@ function abrirModal(etiqueta) {
 function cerrarModal() {
   document.getElementById('modal-overlay').style.display = 'none'
 }
+function cambiarPlataforma(plataforma) {
+  plataformaActual = plataforma
+  document.getElementById('nombre-plataforma').textContent = plataforma
 
+  // Actualizar botón activo
+  document.querySelectorAll('.btn-plataforma').forEach(b => b.classList.remove('activo'))
+  document.getElementById('btn-' + plataforma).classList.add('activo')
+
+  construirGrafico()
+}
 construirGrafico()
