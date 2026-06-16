@@ -5,7 +5,58 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Monitor de Desinformación</title>
   <style>
+    /* TABLA */
+    #tabla-datos {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      font-size: 14px;
+    }
 
+    #tabla-datos th {
+      text-align: left;
+      padding: 10px 14px;
+      background-color: #534AB7;
+      color: white;
+    }
+
+    #tabla-datos td {
+      padding: 10px 14px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    #tabla-datos tr:nth-child(even) {
+      background-color: #f5f5f5;
+    }
+
+    #tabla-datos tr:hover {
+      background-color: #e8e6ff;
+    }
+
+    #tabla-datos a {
+      color: #534AB7;
+      text-decoration: none;
+    }
+
+    #tabla-datos a:hover {
+      text-decoration: underline;
+    }
+    /* VISTA DE INICIO */
+    #vista-inicio {
+      margin-top: 20px;
+    }
+
+    #vista-inicio h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+
+    #vista-inicio p {
+      color: #888;
+      font-size: 16px;
+      margin-bottom: 40px;
+    }
+  
     /* BOTONES DE PLATAFORMA */
     .contenedor-botones {
       display: flex;
@@ -101,27 +152,44 @@
   <!-- ENCABEZADO -->
   <div id="encabezado">
     <h1>Monitor de Desinformación</h1>
-    <p>Estafas más frecuentes detectadas</p>
-  </div>
-  <!-- BOTONES DE PLATAFORMA -->
-  <div id="botones-plataforma" class="contenedor-botones">
-    <button id="btn-bluesky" class="btn-plataforma activo" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
-    <button id="btn-reddit" class="btn-plataforma" onclick="cambiarPlataforma('reddit')">Reddit</button>
+    <p>Análisis de comportamiento inauténtico en redes sociales</p>
   </div>
 
-  <!-- ÁREA DEL GRÁFICO -->
-  <div id="area-grafico">
-    <p id="nombre-plataforma">Bluesky</p>
+  <!-- BOTONES -->
+  <div class="contenedor-botones">
+    <button class="btn-plataforma" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
+    <button class="btn-plataforma" onclick="cambiarPlataforma('reddit')">Reddit</button>
+  </div>
+
+  <!-- VISTA GENERAL (inicio) -->
+  <div id="vista-inicio">
+    <h2>Top 5 estafas detectadas — todas las plataformas</h2>
     <canvas id="mi-grafico"></canvas>
+
+    <h2>Datos recolectados</h2>
+    <table id="tabla-datos">
+      <thead>
+        <tr>
+          <th>Fecha extracción</th>
+          <th>Tipo de estafa</th>
+          <th>Fuente</th>
+          <th>URL</th>
+        </tr>
+      </thead>
+      <tbody id="cuerpo-tabla">
+        <!-- filas generadas por JavaScript -->
+      </tbody>
+    </table>
   </div>
 
-  <!-- PANEL DE DETALLE (oculto al inicio) -->
-  <div id="panel-detalle" style="display: none;">
-    <h2 id="detalle-titulo">Título estafa</h2>
-    <p id="detalle-resumen">Aquí irá el análisis...</p>
+  <!-- VISTA POR PLATAFORMA -->
+  <div id="vista-plataforma" style="display: none;">
+    <button onclick="volverInicio()">← Volver</button>
+    <p id="nombre-plataforma"></p>
+    <canvas id="grafico-plataforma"></canvas>
   </div>
 
-  <!-- MODAL DE DETALLE -->
+  <!-- MODAL -->
   <div id="modal-overlay" style="display: none;">
     <div id="modal-contenido">
       <button id="btn-cerrar-modal" onclick="cerrarModal()">✕ Cerrar</button>
@@ -132,10 +200,7 @@
     </div>
   </div>
 
-  <!-- LIBRERÍA CHART.JS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
-
-  <!-- NUESTRO SCRIPT -->
   <script src="script.js"></script>
 
 </body>
