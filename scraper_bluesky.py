@@ -38,7 +38,7 @@ def buscar_categoria(client, categoria, termino, limite=5):
 
 
 if __name__ == "__main__":
-    client = conectar("mi_usuario", "mi_app_password")
+    client = conectar("juan4-04.bsky.social", "ry7q-2ym3-pbz6-yehy")
 
     categorias = {
         "Criptomonedas": "guaranteed returns crypto",
