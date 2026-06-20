@@ -1,0 +1,440 @@
+/* ══════════════════════════════════════════════
+   Monitor de Desinformación — Estilo OpenTune
+   Material Design 3 (dark) · Glassmorphism · M3 motion
+   ══════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800;900&family=Be+Vietnam+Pro:wght@400;500;600&display=swap');
+
+/* ─── Design tokens ─── */
+:root {
+    --bg:                      #141317;
+    --surface:                 #141317;
+    --surface-container-lowest:#0e0e11;
+    --surface-container-low:   #1c1b1f;
+    --surface-container:       #201f23;
+    --surface-container-high:  #2b292d;
+    --surface-container-highest:#353438;
+
+    --on-surface:              #e5e1e7;
+    --on-surface-variant:      #cac4d0;
+    --outline:                 #948f9a;
+    --outline-variant:         #49454f;
+
+    --primary:                 #e9ddff;
+    --primary-container:       #d0bcff;
+    --on-primary:              #37265e;
+    --on-primary-container:    #4d3d76;
+
+    --secondary-container:     #4a4359;
+    --on-secondary-container:  #e9def9;
+
+    --tertiary-container:      #efb8c8;
+    --on-tertiary-container:   #492532;
+
+    --error:                   #ffb4ab;
+
+    --ease-m3: cubic-bezier(0.2, 0, 0, 1);
+}
+
+/* ─── Base / reset ─── */
+* , ::before, ::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 48px clamp(20px, 5vw, 72px) 80px;
+    min-height: 100vh;
+    background-color: var(--bg);
+    background-image:
+        radial-gradient(60vw 60vw at 92% -15%, rgba(208, 188, 255, 0.10), transparent 60%),
+        radial-gradient(55vw 55vw at -15% 105%, rgba(74, 67, 89, 0.16), transparent 60%),
+        radial-gradient(40vw 40vw at 105% 55%, rgba(239, 184, 200, 0.06), transparent 60%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: var(--on-surface);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    color: var(--primary-container);
+    text-decoration: none;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(208, 188, 255, 0.25);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(208, 188, 255, 0.4);
+}
+
+/* ─── Focus visible ─── */
+:focus-visible {
+    outline: 2px solid var(--primary-container);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+/* ══════════════════════════════════════════════
+   ENCABEZADO
+   ══════════════════════════════════════════════ */
+
+#encabezado {
+    margin-bottom: 8px;
+}
+
+#encabezado h1 {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 800;
+    font-size: clamp(28px, 4vw, 40px);
+    letter-spacing: -0.5px;
+    line-height: 1.15;
+    margin: 0 0 10px;
+    background: linear-gradient(135deg, #ffffff 20%, var(--primary-container) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+#encabezado p {
+    margin: 0;
+    color: var(--on-surface-variant);
+    font-size: 15px;
+}
+
+/* ══════════════════════════════════════════════
+   BOTONES DE PLATAFORMA
+   ══════════════════════════════════════════════ */
+
+.contenedor-botones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin: 32px 0 40px;
+    max-width: 520px;
+}
+
+.btn-plataforma {
+    flex: 1;
+    min-width: 160px;
+    text-align: center;
+    background: rgba(28, 27, 31, 0.55);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.07);
+    color: var(--on-surface);
+    padding: 22px 10px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.25s var(--ease-m3),
+                border-color 0.25s var(--ease-m3),
+                transform 0.2s var(--ease-m3),
+                box-shadow 0.25s var(--ease-m3);
+}
+
+.btn-plataforma:hover {
+    background: rgba(208, 188, 255, 0.08);
+    border-color: rgba(208, 188, 255, 0.35);
+    color: var(--primary-container);
+    transform: translateY(-2px);
+}
+
+.btn-plataforma:active {
+    transform: translateY(0) scale(0.97);
+}
+
+.btn-plataforma.activo {
+    background: var(--primary-container);
+    color: var(--on-primary);
+    border-color: var(--primary-container);
+    box-shadow: 0 0 40px 0 rgba(208, 188, 255, 0.25);
+    transform: scale(1.03);
+}
+
+/* ══════════════════════════════════════════════
+   VISTA DE INICIO / TÍTULOS DE SECCIÓN
+   ══════════════════════════════════════════════ */
+
+#vista-inicio,
+#vista-plataforma {
+    margin-top: 12px;
+}
+
+#vista-inicio h2,
+#vista-plataforma h2 {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--on-surface);
+    margin: 40px 0 16px;
+}
+
+#vista-inicio h2:first-of-type {
+    margin-top: 0;
+}
+
+/* ══════════════════════════════════════════════
+   GRÁFICOS (Chart.js canvases) — efecto glass card
+   ══════════════════════════════════════════════ */
+
+#mi-grafico,
+#grafico-plataforma,
+#modal-grafico {
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    background: rgba(20, 19, 23, 0.45);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 24px;
+    padding: 24px;
+    box-shadow: 0 0 40px 0 rgba(208, 188, 255, 0.06);
+}
+
+/* ══════════════════════════════════════════════
+   TABLA
+   ══════════════════════════════════════════════ */
+
+#tabla-datos {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background: rgba(20, 19, 23, 0.45);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 0 40px 0 rgba(208, 188, 255, 0.05);
+}
+
+#tabla-datos th {
+    text-align: left;
+    padding: 14px 18px;
+    background-color: rgba(43, 41, 45, 0.7);
+    color: var(--on-surface-variant);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+#tabla-datos td {
+    padding: 13px 18px;
+    color: var(--on-surface);
+    border-bottom: 1px solid rgba(73, 69, 79, 0.35);
+}
+
+#tabla-datos tr:last-child td {
+    border-bottom: none;
+}
+
+#tabla-datos tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.025);
+}
+
+#tabla-datos tr:hover {
+    background-color: rgba(208, 188, 255, 0.08);
+}
+
+#tabla-datos a {
+    color: var(--primary-container);
+    text-decoration: none;
+    transition: color 0.2s var(--ease-m3);
+}
+
+#tabla-datos a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+/* ══════════════════════════════════════════════
+   VISTA POR PLATAFORMA
+   ══════════════════════════════════════════════ */
+
+#vista-plataforma > button {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: transparent;
+    border: 1px solid rgba(73, 69, 79, 0.5);
+    color: var(--on-surface-variant);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 8px 18px;
+    border-radius: 9999px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: all 0.2s var(--ease-m3);
+}
+
+#vista-plataforma > button:hover {
+    border-color: rgba(208, 188, 255, 0.4);
+    color: var(--primary-container);
+    background: rgba(208, 188, 255, 0.07);
+    transform: translateY(-1px);
+}
+
+#nombre-plataforma {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 14px;
+    margin: 0 0 18px;
+    border-radius: 9999px;
+    background-color: rgba(208, 188, 255, 0.15);
+    color: var(--primary-container);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+/* ══════════════════════════════════════════════
+   MODAL — glass dialog
+   ══════════════════════════════════════════════ */
+
+#modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.72);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    padding: 20px;
+}
+
+#modal-contenido {
+    background: rgba(18, 17, 22, 0.9);
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter: blur(32px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--on-surface);
+    width: 100%;
+    max-width: 560px;
+    max-height: 85vh;
+    overflow-y: auto;
+    border-radius: 28px;
+    padding: 28px;
+    box-shadow:
+        0 30px 70px rgba(0, 0, 0, 0.55),
+        0 0 0 1px rgba(208, 188, 255, 0.06),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+#modal-titulo {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 700;
+    color: var(--on-surface);
+    font-size: 22px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+
+#modal-plataforma {
+    display: inline-flex;
+    color: var(--on-surface-variant);
+    background: rgba(255, 255, 255, 0.06);
+    padding: 3px 12px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#modal-resumen {
+    color: var(--on-surface-variant);
+    line-height: 1.7;
+    font-size: 14.5px;
+    margin-bottom: 20px;
+}
+
+#btn-cerrar-modal {
+    background: transparent;
+    border: 1px solid rgba(208, 188, 255, 0.35);
+    color: var(--primary-container);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 7px 16px;
+    border-radius: 9999px;
+    cursor: pointer;
+    float: right;
+    transition: all 0.2s var(--ease-m3);
+}
+
+#btn-cerrar-modal:hover {
+    background: rgba(208, 188, 255, 0.12);
+    border-color: var(--primary-container);
+}
+
+/* ══════════════════════════════════════════════
+   ACCESIBILIDAD / MOVIMIENTO REDUCIDO
+   ══════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+    *, ::before, ::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* ══════════════════════════════════════════════
+   RESPONSIVE
+   ══════════════════════════════════════════════ */
+
+@media (max-width: 640px) {
+    body {
+        padding: 32px 18px 60px;
+    }
+
+    .contenedor-botones {
+        flex-direction: column;
+        max-width: 100%;
+    }
+
+    .btn-plataforma {
+        min-width: 0;
+    }
+
+    #modal-contenido {
+        padding: 22px;
+        border-radius: 22px;
+    }
+
+    #tabla-datos th,
+    #tabla-datos td {
+        padding: 10px 12px;
+        font-size: 13px;
+    }
+}
