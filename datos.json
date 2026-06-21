@@ -13,6 +13,23 @@
       1
     ]
   },
+  "fuente2": {
+    "nombre": "Hacker News",
+    "etiquetas": [
+      "Criptomonedas",
+      "Phishing",
+      "Inversiones",
+      "Sorteos falsos",
+      "Suplantación"
+    ],
+    "valores": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ]
+  },
   "tabla": [
     {
       "fecha": "2026-06-20",
@@ -133,6 +150,306 @@
       "estafa": "Suplantación",
       "fuente": "Bluesky",
       "url": "https://bsky.app/profile/mmason4750.bsky.social/post/3lsekmycuwt2l"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://www.wired.co.uk/article/molly-white-crypto-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://blog.toine.io/torcoin/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://medium.com/@joegaebel/crypto-scammers-piggybacking-trumps-twitter-feed-cloning-medium-and-stealing-bitcoin-f93c65ff13f6"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://rekt.news/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Criptomonedas",
+      "fuente": "Hacker News",
+      "url": "https://www.bloomberg.com/news/features/2021-07-08/crypto-scams-rug-pulls-bitcoin-hacks-billions-lost-when-shit-coins-go-to-zero"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://twitter.com/tomscott/status/812265182646927361"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/#"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://www.ndtv.com/blog/how-i-fell-for-a-phishing-attack-my-story-by-nidhi-razdan-2353395"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "http://feross.org/html5-fullscreen-api-attack/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Phishing",
+      "fuente": "Hacker News",
+      "url": "https://github.com/sophron/wifiphisher"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://medium.com/truth-review/rayton-solar-legitimate-scam-in-between-7c8e5295265d"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "http://www.phaserinc.com/index1.html"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://www.ftc.gov/news-events/blogs/data-spotlight/2021/05/cryptocurrency-buzz-drives-record-investment-scam-losses"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "http://www.massively.com/2010/09/11/eve-online-player-steals-45-000-worth-of-isk-in-massive-investm/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://www.justice.gov/usao-ndoh/pr/ohio-man-loses-nearly-half-million-dollars-cryptocurrency-investment-scam"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://www.occrp.org/en/project/scam-empire/scam-empire-inside-a-merciless-international-investment-scam"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Inversiones",
+      "fuente": "Hacker News",
+      "url": "https://digit.fyi/crypto-investment-scams-triple-fca/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=34943047"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://www.bbc.co.uk/news/technology-56402378"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://www.coindesk.com/apple-co-founder-steve-wozniak-sues-youtube-over-bitcoin-giveaway-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=26067177"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://decrypt.co/26267/crypto-firm-ripple-sues-youtube-over-xrp-giveaway-scams"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://www.bbc.com/news/technology-56402378"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://arxiv.org/abs/2405.09757"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://scaminvestigations.substack.com/p/crypto-giveaway-scammers-probably"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Sorteos falsos",
+      "fuente": "Hacker News",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f584_paper.pdf"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.queuemetrics.com/blog/2026/03/02/queuemetrics-protects-teams-impersonation/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-celebrity-impersonation-scam-1236309121/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://medium.com/@gszathmari/email-impersonation-scams-phishing-what-your-staff-can-do-6d0c12661143"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.tenable.com/blog/tiktok-scams-how-social-currency-fuels-the-economy-for-impersonation-accounts-and-free"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://blog.ironbastion.com.au/email-impersonation-scams-phishing-what-your-staff-can-do/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.malwarebytes.com/blog/news/2025/03/semrush-impersonation-scam-hits-google-ads"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.theregister.com/2024/02/16/ftc_ai_fakes/"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=24780352"
+    },
+    {
+      "fecha": "2026-06-20",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=46141001"
     }
   ]
 }
