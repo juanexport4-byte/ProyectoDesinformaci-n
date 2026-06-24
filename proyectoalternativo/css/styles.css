@@ -1,0 +1,567 @@
+/* ══════════════════════════════════════════════
+   Monitor de Desinformación — 3D Dark Theme
+   Material Design 3 · Glassmorphism · 3D depth
+   ══════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800;900&family=Be+Vietnam+Pro:wght@400;500;600&display=swap');
+
+/* ─── Design tokens ─── */
+:root {
+    --bg:                       #0d0c10;
+    --surface-low:              #131118;
+    --surface:                  #17161c;
+    --surface-high:             #1e1d24;
+    --surface-highest:          #27262e;
+
+    --on-surface:               #e5e1e7;
+    --on-surface-variant:       #948f9a;
+    --outline:                  #948f9a;
+    --outline-variant:          #49454f;
+
+    --primary:                  #e9ddff;
+    --primary-container:        #d0bcff;
+    --on-primary:               #37265e;
+
+    --tertiary-container:       #efb8c8;
+
+    --error:                    #ffb4ab;
+
+    --ease-m3:    cubic-bezier(0.2, 0, 0, 1);
+    --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+    /* ── Sombras 3D ── */
+    --shadow-card:
+        0 2px  0  rgba(255,255,255,0.045) inset,
+        0 -4px 0  rgba(0,0,0,0.45) inset,
+        4px 0  0  rgba(0,0,0,0.25) inset,
+        0 20px 50px rgba(0,0,0,0.55),
+        0 4px  12px rgba(0,0,0,0.4);
+
+    --shadow-card-hover:
+        0 2px  0  rgba(255,255,255,0.07) inset,
+        0 -4px 0  rgba(0,0,0,0.45) inset,
+        4px 0  0  rgba(0,0,0,0.25) inset,
+        0 32px 70px rgba(0,0,0,0.6),
+        0 8px  24px rgba(208,188,255,0.1);
+
+    --shadow-btn:
+        0 6px  0  rgba(0,0,0,0.5),
+        0 1px  0  rgba(255,255,255,0.07) inset,
+        0 -2px 0  rgba(0,0,0,0.4) inset,
+        0 12px 28px rgba(0,0,0,0.4);
+
+    --shadow-btn-active:
+        0 2px  0  rgba(0,0,0,0.5),
+        0 1px  0  rgba(255,255,255,0.05) inset,
+        0 -1px 0  rgba(0,0,0,0.4) inset;
+
+    --shadow-table:
+        0 2px  0  rgba(255,255,255,0.04) inset,
+        0 -6px 0  rgba(0,0,0,0.5) inset,
+        0 24px 60px rgba(0,0,0,0.55),
+        0 0 0 1px rgba(208,188,255,0.04);
+
+    --shadow-modal:
+        0 40px 80px rgba(0,0,0,0.7),
+        0 0 0  1px rgba(208,188,255,0.07),
+        0 2px  0  rgba(255,255,255,0.06) inset,
+        0 -4px 0  rgba(0,0,0,0.4) inset;
+}
+
+/* ─── Reset ─── */
+*, ::before, ::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+/* ─── Body + fondo ambiental ─── */
+body {
+    margin: 0;
+    padding: 48px clamp(20px, 5vw, 72px) 80px;
+    min-height: 100vh;
+    background-color: var(--bg);
+    background-image:
+        radial-gradient(65vw 65vw at 95% -10%,  rgba(208,188,255,0.13) 0%, transparent 60%),
+        radial-gradient(55vw 55vw at -10% 110%,  rgba(74, 67, 89, 0.18) 0%, transparent 60%),
+        radial-gradient(40vw 40vw at 108%  55%,  rgba(239,184,200,0.07) 0%, transparent 60%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: var(--on-surface);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    color: var(--primary-container);
+    text-decoration: none;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+    background: rgba(208,188,255,0.2);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover { background: rgba(208,188,255,0.38); }
+
+/* ─── Focus ─── */
+:focus-visible {
+    outline: 2px solid var(--primary-container);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+/* ══════════════════════════════════════════════
+   ENCABEZADO
+   ══════════════════════════════════════════════ */
+
+#encabezado { margin-bottom: 8px; }
+
+#encabezado h1 {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 900;
+    font-size: clamp(28px, 4vw, 42px);
+    letter-spacing: -1px;
+    line-height: 1.1;
+    margin: 0 0 10px;
+    background: linear-gradient(135deg, #ffffff 15%, var(--primary-container) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+#encabezado p {
+    margin: 0;
+    color: var(--on-surface-variant);
+    font-size: 15px;
+}
+
+/* ══════════════════════════════════════════════
+   BOTONES DE PLATAFORMA — efecto botón físico 3D
+   ══════════════════════════════════════════════ */
+
+.contenedor-botones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin: 32px 0 40px;
+    max-width: 520px;
+    perspective: 600px;
+}
+
+.btn-plataforma {
+    flex: 1;
+    min-width: 160px;
+    text-align: center;
+    background: linear-gradient(to bottom, var(--surface-high), var(--surface-low));
+    border: 1px solid rgba(255,255,255,0.08);
+    color: var(--on-surface-variant);
+    padding: 22px 10px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 20px;
+    cursor: pointer;
+    transform: perspective(500px) rotateX(6deg);
+    transform-style: preserve-3d;
+    box-shadow: var(--shadow-btn);
+    transition:
+        transform      0.2s var(--ease-m3),
+        box-shadow     0.2s var(--ease-m3),
+        background     0.2s var(--ease-m3),
+        color          0.2s var(--ease-m3),
+        border-color   0.2s var(--ease-m3);
+}
+
+.btn-plataforma:hover {
+    background: linear-gradient(to bottom,
+        rgba(208,188,255,0.12),
+        rgba(208,188,255,0.05));
+    border-color: rgba(208,188,255,0.3);
+    color: var(--primary-container);
+    transform: perspective(500px) rotateX(6deg) translateY(-3px);
+    box-shadow:
+        0 9px  0  rgba(0,0,0,0.5),
+        0 1px  0  rgba(255,255,255,0.09) inset,
+        0 -2px 0  rgba(0,0,0,0.4) inset,
+        0 18px 36px rgba(208,188,255,0.1);
+}
+
+.btn-plataforma:active {
+    transform: perspective(500px) rotateX(6deg) translateY(4px);
+    box-shadow: var(--shadow-btn-active);
+}
+
+.btn-plataforma.activo {
+    background: linear-gradient(to bottom, #dac8ff, #b89ded);
+    color: var(--on-primary);
+    border-color: #c4a8ff;
+    transform: perspective(500px) rotateX(6deg) translateY(-1px);
+    box-shadow:
+        0 5px  0  rgba(55,38,94,0.6),
+        0 1px  0  rgba(255,255,255,0.35) inset,
+        0 -2px 0  rgba(0,0,0,0.2) inset,
+        0 16px 40px rgba(208,188,255,0.3);
+}
+
+/* ══════════════════════════════════════════════
+   TÍTULOS DE SECCIÓN
+   ══════════════════════════════════════════════ */
+
+#vista-inicio, #vista-plataforma { margin-top: 12px; }
+
+#vista-inicio h2,
+#vista-plataforma h2 {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--on-surface);
+    margin: 40px 0 16px;
+}
+
+#vista-inicio h2:first-of-type { margin-top: 0; }
+
+/* ══════════════════════════════════════════════
+   GRÁFICOS — card 3D inclinada
+   ══════════════════════════════════════════════ */
+
+#mi-grafico,
+#grafico-plataforma,
+#modal-grafico {
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    background: linear-gradient(160deg,
+        rgba(30,29,36,0.7) 0%,
+        rgba(18,17,22,0.6) 100%);
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+    border: 1px solid rgba(255,255,255,0.07);
+    border-radius: 24px;
+    padding: 28px;
+    transform: perspective(900px) rotateX(4deg);
+    transform-origin: top center;
+    transform-style: preserve-3d;
+    box-shadow: var(--shadow-card);
+    transition: transform 0.35s var(--ease-m3), box-shadow 0.35s var(--ease-m3);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Brillo superior (cara frontal del vidrio) */
+#mi-grafico::before,
+#grafico-plataforma::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 45%;
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.05),
+        transparent);
+    border-radius: 24px 24px 0 0;
+    pointer-events: none;
+}
+
+#mi-grafico:hover,
+#grafico-plataforma:hover {
+    transform: perspective(900px) rotateX(1deg) translateY(-4px);
+    box-shadow: var(--shadow-card-hover);
+}
+
+/* ══════════════════════════════════════════════
+   TABLA — perspectiva 3D + glass
+   ══════════════════════════════════════════════ */
+
+/* Wrapper para poder aplicar perspectiva a la tabla */
+#tabla-datos {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background: linear-gradient(170deg,
+        rgba(24,23,29,0.7) 0%,
+        rgba(14,14,17,0.65) 100%);
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 22px;
+    overflow: hidden;
+    transform: perspective(1000px) rotateX(3deg);
+    transform-origin: top center;
+    box-shadow: var(--shadow-table);
+    transition: transform 0.35s var(--ease-m3), box-shadow 0.35s var(--ease-m3);
+}
+
+#tabla-datos:hover {
+    transform: perspective(1000px) rotateX(1deg) translateY(-3px);
+    box-shadow:
+        0 2px  0  rgba(255,255,255,0.05) inset,
+        0 -6px 0  rgba(0,0,0,0.5) inset,
+        0 36px 80px rgba(0,0,0,0.6),
+        0 0 0  1px rgba(208,188,255,0.07);
+}
+
+#tabla-datos th {
+    text-align: left;
+    padding: 14px 18px;
+    background: rgba(35,33,42,0.85);
+    color: var(--on-surface-variant);
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(73,69,79,0.4);
+}
+
+#tabla-datos td {
+    padding: 13px 18px;
+    color: var(--on-surface);
+    border-bottom: 1px solid rgba(73,69,79,0.25);
+}
+
+#tabla-datos tr:last-child td { border-bottom: none; }
+
+#tabla-datos tr:nth-child(even) td {
+    background: rgba(255,255,255,0.02);
+}
+
+#tabla-datos tr:hover td {
+    background: rgba(208,188,255,0.07);
+}
+
+#tabla-datos a {
+    color: var(--primary-container);
+    text-decoration: none;
+    transition: color 0.2s var(--ease-m3);
+}
+
+#tabla-datos a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+/* ══════════════════════════════════════════════
+   VISTA POR PLATAFORMA
+   ══════════════════════════════════════════════ */
+
+#vista-plataforma > button {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: linear-gradient(to bottom, var(--surface-high), var(--surface));
+    border: 1px solid rgba(73,69,79,0.55);
+    color: var(--on-surface-variant);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 9px 20px;
+    border-radius: 9999px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    box-shadow:
+        0 4px 0 rgba(0,0,0,0.4),
+        0 1px 0 rgba(255,255,255,0.05) inset;
+    transform: perspective(400px) rotateX(4deg);
+    transition: all 0.2s var(--ease-m3);
+}
+
+#vista-plataforma > button:hover {
+    border-color: rgba(208,188,255,0.35);
+    color: var(--primary-container);
+    background: linear-gradient(to bottom,
+        rgba(208,188,255,0.1),
+        rgba(208,188,255,0.04));
+    transform: perspective(400px) rotateX(4deg) translateY(-2px);
+    box-shadow:
+        0 6px 0 rgba(0,0,0,0.4),
+        0 1px 0 rgba(255,255,255,0.07) inset,
+        0 8px 20px rgba(208,188,255,0.1);
+}
+
+#vista-plataforma > button:active {
+    transform: perspective(400px) rotateX(4deg) translateY(2px);
+    box-shadow: 0 2px 0 rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.04) inset;
+}
+
+#nombre-plataforma {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 14px;
+    margin: 0 0 18px;
+    border-radius: 9999px;
+    background: rgba(208,188,255,0.14);
+    border: 1px solid rgba(208,188,255,0.2);
+    color: var(--primary-container);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    box-shadow: 0 2px 8px rgba(208,188,255,0.1);
+}
+
+/* ══════════════════════════════════════════════
+   MODAL — glass dialog 3D
+   ══════════════════════════════════════════════ */
+
+#modal-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.78);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    padding: 20px;
+}
+
+#modal-contenido {
+    background: linear-gradient(145deg,
+        rgba(26,24,32,0.95) 0%,
+        rgba(14,13,18,0.92) 100%);
+    backdrop-filter: blur(36px);
+    -webkit-backdrop-filter: blur(36px);
+    border: 1px solid rgba(255,255,255,0.08);
+    color: var(--on-surface);
+    width: 100%;
+    max-width: 560px;
+    max-height: 85vh;
+    overflow-y: auto;
+    border-radius: 28px;
+    padding: 30px;
+    box-shadow: var(--shadow-modal);
+    position: relative;
+    overflow: hidden;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+/* Cara superior del cristal */
+#modal-contenido::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 40%;
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.045),
+        transparent);
+    border-radius: 28px 28px 0 0;
+    pointer-events: none;
+}
+
+#modal-titulo {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 700;
+    color: var(--on-surface);
+    font-size: 22px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+    position: relative;
+}
+
+#modal-plataforma {
+    display: inline-flex;
+    color: var(--on-surface-variant);
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.08);
+    padding: 3px 12px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+#modal-resumen {
+    color: var(--on-surface-variant);
+    line-height: 1.75;
+    font-size: 14.5px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+#btn-cerrar-modal {
+    background: linear-gradient(to bottom,
+        rgba(208,188,255,0.12),
+        rgba(208,188,255,0.06));
+    border: 1px solid rgba(208,188,255,0.3);
+    color: var(--primary-container);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 8px 18px;
+    border-radius: 9999px;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    box-shadow:
+        0 4px 0 rgba(0,0,0,0.4),
+        0 1px 0 rgba(255,255,255,0.07) inset;
+    transform: perspective(300px) rotateX(5deg);
+    transition: all 0.2s var(--ease-m3);
+}
+
+#btn-cerrar-modal:hover {
+    background: linear-gradient(to bottom,
+        rgba(208,188,255,0.22),
+        rgba(208,188,255,0.12));
+    border-color: var(--primary-container);
+    transform: perspective(300px) rotateX(5deg) translateY(-2px);
+    box-shadow:
+        0 6px 0 rgba(0,0,0,0.4),
+        0 1px 0 rgba(255,255,255,0.09) inset,
+        0 8px 20px rgba(208,188,255,0.15);
+}
+
+#btn-cerrar-modal:active {
+    transform: perspective(300px) rotateX(5deg) translateY(2px);
+    box-shadow: 0 2px 0 rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.04) inset;
+}
+
+/* ══════════════════════════════════════════════
+   ACCESIBILIDAD
+   ══════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+    *, ::before, ::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+        transform: none !important;
+    }
+}
+
+/* ══════════════════════════════════════════════
+   RESPONSIVE
+   ══════════════════════════════════════════════ */
+
+@media (max-width: 640px) {
+    body { padding: 32px 18px 60px; }
+
+    .contenedor-botones {
+        flex-direction: column;
+        max-width: 100%;
+    }
+
+    .btn-plataforma { min-width: 0; }
+
+    #modal-contenido {
+        padding: 22px;
+        border-radius: 22px;
+    }
+
+    #tabla-datos th,
+    #tabla-datos td {
+        padding: 10px 12px;
+        font-size: 13px;
+    }
+
+    #mi-grafico,
+    #grafico-plataforma {
+        padding: 18px;
+    }
+}
