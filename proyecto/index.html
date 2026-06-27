@@ -14,31 +14,37 @@
     <p>Análisis de comportamiento inauténtico en redes sociales</p>
   </div>
 
-  <!-- BOTONES -->
-  <div class="contenedor-botones">
-    <button class="btn-plataforma" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
-    <button class="btn-plataforma" onclick="cambiarPlataforma('reddit')">Reddit</button>
-  </div>
-
   <!-- VISTA GENERAL (inicio) -->
   <div id="vista-inicio">
-    <h2>Top 5 estafas detectadas — todas las plataformas</h2>
-    <canvas id="mi-grafico"></canvas>
 
-    <h2>Datos recolectados</h2>
-    <table id="tabla-datos">
-      <thead>
-        <tr>
-          <th>Fecha extracción</th>
-          <th>Tipo de estafa</th>
-          <th>Fuente</th>
-          <th>URL</th>
-        </tr>
-      </thead>
-      <tbody id="cuerpo-tabla">
-        <!-- filas generadas por JavaScript -->
-      </tbody>
-    </table>
+    <!-- BOTONES -->
+    <div class="contenedor-botones">
+      <button class="btn-plataforma" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
+      <button class="btn-plataforma" onclick="cambiarPlataforma('fuente2')">Hacker News</button>
+    </div>
+
+    <!-- GRÁFICO GENERAL -->
+    <div id="seccion-grafico">
+      <h2>Top 5 estafas detectadas — todas las plataformas</h2>
+      <canvas id="mi-grafico"></canvas>
+    </div>
+
+    <!-- TABLA -->
+    <div id="seccion-tabla">
+      <h2>Datos recolectados</h2>
+      <table id="tabla-datos">
+        <thead>
+          <tr>
+            <th>Fecha extracción</th>
+            <th>Tipo de estafa</th>
+            <th>Fuente</th>
+            <th>URL</th>
+          </tr>
+        </thead>
+        <tbody id="cuerpo-tabla"></tbody>
+      </table>
+    </div>
+
   </div>
 
   <!-- VISTA POR PLATAFORMA -->
@@ -63,4 +69,3 @@
   <script src="script.js"></script>
 
 </body>
-</html>

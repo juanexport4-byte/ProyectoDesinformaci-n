@@ -10,7 +10,7 @@ def conectar(usuario, app_password):
     return client
 
 
-def buscar_categoria(client, categoria, termino, limite=5):
+def buscar_categoria(client, categoria, termino, limite=10):
     print(f"Buscando: {categoria} ({termino})...")
 
     response = client.app.bsky.feed.search_posts(
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     todos_los_datos = []
 
     for categoria, termino in categorias.items():
-        resultados = buscar_categoria(client, categoria, termino, limite=10)
+        resultados = buscar_categoria(client, categoria, termino, limite=100)
         todos_los_datos.extend(resultados)
 
     print(f"\nTotal de posts extraídos: {len(todos_los_datos)}")
