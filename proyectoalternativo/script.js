@@ -10,60 +10,58 @@ let plataformaActual = 'bluesky'
 let miGrafico = null
 let graficoPlatforma = null
 
-// ── Cargar datos.json ──────────────────────────
+// Cargar los datos reales desde datos.json
 fetch('datos.json')
-  .then(res => res.json())
-  .then(data => {
-    datosGlobales = data
+  .then(response => response.json())
+  .then(json => {
+    datos = json
+    filasTabla = json.tabla
+
     construirGraficoGeneral()
     construirTabla()
   })
-  .catch(err => {
-    console.error('Error cargando datos.json:', err)
-    document.getElementById('vista-inicio').innerHTML +=
-      '<p style="color:#ffb4ab">⚠ No se pudo cargar datos.json. Abrí el proyecto con un servidor local (Live Server o python -m http.server).</p>'
+  .catch(error => {
+    console.error('Error cargando datos.json:', error)
   })
 
-// ── Gráfico general ────────────────────────────
+// Gráfico general combinado
 function construirGraficoGeneral() {
-  const d = datosGlobales.bluesky
+  // Unir etiquetas de ambas fuentes sin repetir
+  const todasEtiquetas = [...new Set([
+    ...datos.bluesky.etiquetas,
+    ...datos.fuente2.etiquetas
+  ])]
+
+  const valoresCombinados = todasEtiquetas.map(etiqueta => {
+    const iBsky = datos.bluesky.etiquetas.indexOf(etiqueta)
+    const iFuente2 = datos.fuente2.etiquetas.indexOf(etiqueta)
+    const vBsky = iBsky !== -1 ? datos.bluesky.valores[iBsky] : 0
+    const vFuente2 = iFuente2 !== -1 ? datos.fuente2.valores[iFuente2] : 0
+    return vBsky + vFuente2
+  })
+
   const ctx = document.getElementById('mi-grafico').getContext('2d')
   if (miGrafico) miGrafico.destroy()
 
   miGrafico = new Chart(ctx, {
     type: 'bar',
     data: {
-      labels: d.etiquetas,
+      labels: todasEtiquetas,
       datasets: [{
-        label: 'Posts detectados',
-        data: d.valores,
-        backgroundColor: 'rgba(208,188,255,0.7)',
-        borderColor: '#d0bcff',
-        borderWidth: 1,
-        borderRadius: 8,
-        borderSkipped: false
+        label: 'Total de posts',
+        data: valoresCombinados,
+        backgroundColor: '#534AB7'
       }]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: { display: false }
-      },
-      scales: {
-        y: { beginAtZero: true, grid: { color: 'rgba(73,69,79,0.3)' } },
-        x: { grid: { display: false } }
-      }
     }
   })
 }
 
-// ── Tabla ──────────────────────────────────────
+// Llenar la tabla
 function construirTabla() {
   const cuerpo = document.getElementById('cuerpo-tabla')
   cuerpo.innerHTML = ''
-  const filas = datosGlobales.tabla || []
 
-  filas.forEach(fila => {
+  filasTabla.forEach(fila => {
     const tr = document.createElement('tr')
     tr.innerHTML = `
       <td>${fila.fecha}</td>
@@ -75,22 +73,12 @@ function construirTabla() {
   })
 }
 
-// ── Gráfico por plataforma ─────────────────────
+// Gráfico por plataforma
 function construirGraficoPlatforma() {
-  const d = datosGlobales[plataformaActual]
-  if (!d) {
-    document.getElementById('grafico-plataforma').style.display = 'none'
-    return
-  }
-
-  document.getElementById('grafico-plataforma').style.display = 'block'
+  const d = datos[plataformaActual]
   const ctx = document.getElementById('grafico-plataforma').getContext('2d')
-  if (graficoPlatforma) graficoPlatforma.destroy()
 
-  const color = plataformaActual === 'reddit'
-    ? 'rgba(239,184,200,0.7)'
-    : 'rgba(208,188,255,0.7)'
-  const border = plataformaActual === 'reddit' ? '#efb8c8' : '#d0bcff'
+  if (graficoPlatforma) graficoPlatforma.destroy()
 
   graficoPlatforma = new Chart(ctx, {
     type: 'bar',
@@ -99,56 +87,45 @@ function construirGraficoPlatforma() {
       datasets: [{
         label: plataformaActual,
         data: d.valores,
-        backgroundColor: color,
-        borderColor: border,
-        borderWidth: 1,
-        borderRadius: 8,
-        borderSkipped: false
+        backgroundColor: '#534AB7'
       }]
     },
     options: {
-      responsive: true,
-      plugins: { legend: { display: false } },
-      scales: {
-        y: { beginAtZero: true, grid: { color: 'rgba(73,69,79,0.3)' } },
-        x: { grid: { display: false } }
-      },
       onClick: (evento, elementos) => {
         if (elementos.length > 0) {
-          const idx = elementos[0].index
-          abrirModal(d.etiquetas[idx], d.valores[idx])
+          const indice = elementos[0].index
+          const etiqueta = d.etiquetas[indice]
+          mostrarDetalle(etiqueta)
         }
       }
     }
   })
 }
 
-// ── Navegación ─────────────────────────────────
 function cambiarPlataforma(plataforma) {
   plataformaActual = plataforma
-  document.getElementById('nombre-plataforma').textContent = plataforma
+  const d = datos[plataforma]
+  const nombreMostrado = d.nombre || (plataforma === 'bluesky' ? 'Bluesky' : plataforma)
+
+  document.getElementById('nombre-plataforma').textContent = nombreMostrado
   document.getElementById('vista-inicio').style.display = 'none'
   document.getElementById('vista-plataforma').style.display = 'block'
-
-  // Resaltar botón activo
-  document.querySelectorAll('.btn-plataforma').forEach(btn => btn.classList.remove('activo'))
-  event.target.classList.add('activo')
-
-  if (datosGlobales) construirGraficoPlatforma()
+  construirGraficoPlatforma()
 }
 
 function volverInicio() {
   document.getElementById('vista-plataforma').style.display = 'none'
   document.getElementById('vista-inicio').style.display = 'block'
-  document.querySelectorAll('.btn-plataforma').forEach(btn => btn.classList.remove('activo'))
 }
 
-// ── Modal ──────────────────────────────────────
-function abrirModal(etiqueta, cantidad) {
+function mostrarDetalle(etiqueta) {
+  abrirModal(etiqueta)
+}
+
+function abrirModal(etiqueta) {
   document.getElementById('modal-titulo').textContent = etiqueta
-  document.getElementById('modal-plataforma').textContent = plataformaActual.toUpperCase()
-  document.getElementById('modal-resumen').textContent =
-    `Se detectaron ${cantidad} posts relacionados con "${etiqueta}" en ${plataformaActual}.`
+  document.getElementById('modal-plataforma').textContent = plataformaActual
+  document.getElementById('modal-resumen').textContent = 'Análisis pendiente de conectar con datos reales.'
   document.getElementById('modal-overlay').style.display = 'flex'
 }
 
