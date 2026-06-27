@@ -4,7 +4,8 @@ Chart.defaults.borderColor = 'rgba(73,69,79,0.35)'
 Chart.defaults.font.family = "'Be Vietnam Pro', sans-serif"
 Chart.defaults.font.size   = 13
 
-let datosGlobales = null
+let datos = null
+let filasTabla = []
 let plataformaActual = 'bluesky'
 let miGrafico = null
 let graficoPlatforma = null
