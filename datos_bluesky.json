@@ -1,6 +1,6 @@
 [
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-07T06:05:14.741Z",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -9,7 +9,7 @@
         "url": "https://bsky.app/profile/collinsdoland.bsky.social/post/3mnoiqqxc5u2o"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-31T13:32:13.000791+00:00",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -18,7 +18,7 @@
         "url": "https://bsky.app/profile/newsanalysis.com/post/3mn5ohkspga2p"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-30T19:50:11.769Z",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -27,7 +27,7 @@
         "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mn3t4jdwsw2s"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-30T16:18:42.066043+00:00",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -36,16 +36,16 @@
         "url": "https://bsky.app/profile/dealguardianapp.bsky.social/post/3mn3hcdkal62s"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-30T04:02:59.831988+00:00",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
-        "usuario": "buzzerintelligence.com",
+        "usuario": "handle.invalid",
         "texto": "Compelling comparison. The BTC/ETH returns reflect the broader 2020-2021 bull cycle. DOGE's outlier performance came with extreme volatility and was largely meme-driven rather than fundamentals. Worth noting DGB's loss underscores that crypto returns aren't guaranteed - the wi...",
-        "url": "https://bsky.app/profile/buzzerintelligence.com/post/3mn266s7jkd2f"
+        "url": "https://bsky.app/profile/handle.invalid/post/3mn266s7jkd2f"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-29T22:21:12.006Z",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -54,7 +54,7 @@
         "url": "https://bsky.app/profile/pushalt88.bsky.social/post/3mmzl3meagc2v"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-19T10:19:19.881626+00:00",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -63,7 +63,7 @@
         "url": "https://bsky.app/profile/cryptovka-news.bsky.social/post/3mm763m6pws2i"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-17T20:55:35Z",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -72,7 +72,7 @@
         "url": "https://bsky.app/profile/dnsresearch.bsky.social/post/3mm3apjvbx322"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-05-13T08:54:22Z",
         "tipo_estafa": "Criptomonedas",
         "fuente": "Bluesky",
@@ -81,7 +81,7 @@
         "url": "https://bsky.app/profile/dnsresearch.bsky.social/post/3mlpwk7x57n23"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-19T06:31:08.935Z",
         "tipo_estafa": "Phishing",
         "fuente": "Bluesky",
@@ -90,7 +90,7 @@
         "url": "https://bsky.app/profile/fgffg4444.bsky.social/post/3momps4odus2z"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-19T06:15:44.467Z",
         "tipo_estafa": "Phishing",
         "fuente": "Bluesky",
@@ -99,16 +99,7 @@
         "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momowkzs4k2s"
     },
     {
-        "fecha_extraccion": "2026-06-20",
-        "fecha_publicacion": "2026-06-19T06:14:46.098Z",
-        "tipo_estafa": "Phishing",
-        "fuente": "Bluesky",
-        "usuario": "blueskysappo33.bsky.social",
-        "texto": "Heads up! Your account has been temporarily suspended.\nClick the link: bsky.form2351.rest/dP7WBN8cKAUe...",
-        "url": "https://bsky.app/profile/blueskysappo33.bsky.social/post/3momoutek4n2t"
-    },
-    {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-19T06:11:11.705Z",
         "tipo_estafa": "Phishing",
         "fuente": "Bluesky",
@@ -117,16 +108,7 @@
         "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momoogvrxc2s"
     },
     {
-        "fecha_extraccion": "2026-06-20",
-        "fecha_publicacion": "2026-06-19T06:09:00.596Z",
-        "tipo_estafa": "Phishing",
-        "fuente": "Bluesky",
-        "usuario": "blueskysappo33.bsky.social",
-        "texto": "Heads up! Your account has been temporarily suspended.\nClick thelink: bsky.form2351.rest/dP7WBN8cKAUe...",
-        "url": "https://bsky.app/profile/blueskysappo33.bsky.social/post/3momokjunt22f"
-    },
-    {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-19T05:59:52.419Z",
         "tipo_estafa": "Phishing",
         "fuente": "Bluesky",
@@ -135,7 +117,7 @@
         "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momo273mps2t"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-19T05:56:47.572Z",
         "tipo_estafa": "Phishing",
         "fuente": "Bluesky",
@@ -144,7 +126,7 @@
         "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnuosk322p"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-03-16T02:52:58-07:00",
         "tipo_estafa": "Inversiones",
         "fuente": "Bluesky",
@@ -153,7 +135,16 @@
         "url": "https://bsky.app/profile/theinstituteoftrading.com/post/3mh66rnuxef2d"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-11-30T21:08:12.627Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Bluesky",
+        "usuario": "badposter.lol",
+        "texto": "lmao this is wild",
+        "url": "https://bsky.app/profile/badposter.lol/post/3m6ut3evey22w"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2025-11-12T14:32:03.214Z",
         "tipo_estafa": "Suplantación",
         "fuente": "Bluesky",
@@ -162,7 +153,7 @@
         "url": "https://bsky.app/profile/thistlekatt.bsky.social/post/3m5gukgdec223"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2025-10-10T17:50:59.386Z",
         "tipo_estafa": "Suplantación",
         "fuente": "Bluesky",
@@ -171,7 +162,7 @@
         "url": "https://bsky.app/profile/joycereynoldsward.bsky.social/post/3m2uabrd7mc2u"
     },
     {
-        "fecha_extraccion": "2026-06-20",
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2025-06-24T16:52:04.399Z",
         "tipo_estafa": "Suplantación",
         "fuente": "Bluesky",

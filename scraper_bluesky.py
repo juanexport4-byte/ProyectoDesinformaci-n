@@ -10,7 +10,7 @@ def conectar(usuario, app_password):
     return client
 
 
-def buscar_categoria(client, categoria, termino, limite=5):
+def buscar_categoria(client, categoria, termino, limite=100):
     print(f"Buscando: {categoria} ({termino})...")
 
     response = client.app.bsky.feed.search_posts(
