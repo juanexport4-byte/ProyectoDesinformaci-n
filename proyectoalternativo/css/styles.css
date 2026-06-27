@@ -121,29 +121,39 @@ a { color: var(--primary-container); text-decoration: none; }
 
 /* Subtítulo del encabezado */
 #encabezado p {
-    opacity: 0;
-    animation: fadeSlideUp 0.6s var(--ease-m3) 2.2s forwards;
     margin: 0;
     color: var(--on-surface-variant);
     font-size: 15px;
     font-family: 'JetBrains Mono', monospace;
     letter-spacing: 0.01em;
+    opacity: 0;
 }
 
 /* Botones */
 .contenedor-botones {
     opacity: 0;
-    animation: fadeSlideUp 0.6s var(--ease-m3) 2.5s forwards;
 }
 
 /* Secciones de vista-inicio */
 #seccion-grafico {
     opacity: 0;
-    animation: fadeSlideUp 0.7s var(--ease-m3) 2.8s forwards;
 }
 
 #seccion-tabla {
     opacity: 0;
+}
+
+/* ── Clase que activa las animaciones (JS la añade/quita) ── */
+#encabezado p.animar-entrada {
+    animation: fadeSlideUp 0.6s var(--ease-m3) 2.2s forwards;
+}
+.contenedor-botones.animar-entrada {
+    animation: fadeSlideUp 0.6s var(--ease-m3) 2.5s forwards;
+}
+#seccion-grafico.animar-entrada {
+    animation: fadeSlideUp 0.7s var(--ease-m3) 2.8s forwards;
+}
+#seccion-tabla.animar-entrada {
     animation: fadeSlideUp 0.7s var(--ease-m3) 3.1s forwards;
 }
 
@@ -288,11 +298,12 @@ a { color: var(--primary-container); text-decoration: none; }
     border: 1px solid rgba(255,255,255,0.07);
     border-radius: 24px;
     padding: 28px;
-    transform: perspective(900px) rotateX(4deg);
-    transform-origin: top center;
-    transform-style: preserve-3d;
-    box-shadow: var(--shadow-card);
-    transition: transform 0.35s var(--ease-m3), box-shadow 0.35s var(--ease-m3);
+    box-shadow:
+        0 2px  0  rgba(255,255,255,0.045) inset,
+        0 -6px 0  rgba(0,0,0,0.5) inset,
+        0 20px 50px rgba(0,0,0,0.55),
+        0 4px  12px rgba(0,0,0,0.4);
+    transition: box-shadow 0.35s var(--ease-m3);
     position: relative;
     overflow: hidden;
 }
@@ -310,8 +321,11 @@ a { color: var(--primary-container); text-decoration: none; }
 
 #mi-grafico:hover,
 #grafico-plataforma:hover {
-    transform: perspective(900px) rotateX(1deg) translateY(-4px);
-    box-shadow: var(--shadow-card-hover);
+    box-shadow:
+        0 2px  0  rgba(255,255,255,0.07) inset,
+        0 -6px 0  rgba(0,0,0,0.5) inset,
+        0 28px 60px rgba(0,0,0,0.6),
+        0 0 80px rgba(208,188,255,0.08);
 }
 
 /* ══════════════════════════════════════════════
@@ -577,4 +591,54 @@ a { color: var(--primary-container); text-decoration: none; }
     #modal-contenido { padding: 22px; border-radius: 22px; }
     #tabla-datos th, #tabla-datos td { padding: 10px 12px; font-size: 13px; }
     #mi-grafico, #grafico-plataforma { padding: 18px; }
+}
+
+/* ══════════════════════════════════════════════
+   BOTONES TABLA — mostrar más / descargar CSV
+   ══════════════════════════════════════════════ */
+
+#fila-controles td {
+    padding: 0 !important;
+    border-bottom: none !important;
+    background: rgba(20,19,23,0.6) !important;
+}
+
+.btn-tabla {
+    display: block;
+    width: 100%;
+    padding: 14px 20px;
+    background: transparent;
+    border: none;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    transition: background 0.2s var(--ease-m3), color 0.2s var(--ease-m3);
+    color: var(--on-surface-variant);
+}
+
+.btn-tabla:hover {
+    background: rgba(208,188,255,0.07);
+    color: var(--primary-container);
+}
+
+.btn-tabla--csv {
+    color: var(--primary-container);
+    border-left: 1px solid rgba(73,69,79,0.35) !important;
+}
+
+.btn-tabla--csv:hover {
+    background: rgba(208,188,255,0.1);
+    color: var(--primary);
+}
+
+.btn-tabla--disabled {
+    color: rgba(148,143,154,0.4) !important;
+    cursor: default;
+}
+
+.btn-tabla--disabled:hover {
+    background: transparent !important;
+    color: rgba(148,143,154,0.4) !important;
 }
