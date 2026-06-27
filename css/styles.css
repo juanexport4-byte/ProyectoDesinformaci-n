@@ -171,9 +171,21 @@ a {
    VISTA DE INICIO / TÍTULOS DE SECCIÓN
    ══════════════════════════════════════════════ */
 
-#vista-inicio,
+#vista-inicio {
+  display: block;
+  margin-top: 20px;
+}
+
 #vista-plataforma {
-    margin-top: 12px;
+  margin-top: 12px;
+}
+
+#seccion-grafico {
+  margin-bottom: 40px;
+}
+
+#seccion-tabla {
+  margin-top: 20px;
 }
 
 #vista-inicio h2,

@@ -91,6 +91,366 @@
     },
     {
         "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-09-09T23:58:07Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "anigbrowl",
+        "texto": "Americans lost $5.6B last year in crypto scams, FBI says",
+        "url": "https://apnews.com/article/cryptocurrency-fraud-fbi-report-29b412330ccebce946dec895f5060fd7"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-02-27T12:36:28Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "latexr",
+        "texto": "Crypto scams taking advantage of Ukraine conflict",
+        "url": "https://blog.avast.com/crypto-scams-taking-advantage-of-ukraine-conflict-avast"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2018-11-27T18:35:25Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "howard941",
+        "texto": "Bitcoin Plunges to $3,738; Whole Crypto Scam Melts Down, Hedge Funds Stuck",
+        "url": "https://wolfstreet.com/2018/11/25/bitcoin-plunges-to-3738-whole-crypto-scam-melts-down-hedge-funds-stuck/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-08-29T13:30:09Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "haasted",
+        "texto": "QR Code Degenerators: Unmasking a Crypto Scam",
+        "url": "https://zengo.com/qr-code-degenerators/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-12-23T19:51:36Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "saturn5k",
+        "texto": "Beware of a New Amazon Token Crypto Scam",
+        "url": "https://blog.avast.com/beware-of-a-new-amazon-token-crypto-scam"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-06-07T17:22:47Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "erentz",
+        "texto": "Planned leak of 137GB of crypto scam related telegram messages",
+        "url": "https://twitter.com/adyingnobody/status/1534021154674966529"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-05-18T20:30:45Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Crypto scammers flooded YouTube with sham SpaceX Starship livestreams",
+        "url": "https://www.popsci.com/technology/crypto-scam-starship-launch-livestream/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-01-09T22:56:21Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "EricRiese",
+        "texto": "Betterment Hacked by Crypto Scam",
+        "url": "https://bsky.app/profile/ericrie.se/post/3mbzlov44sc23"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-02-21T15:45:44Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "sepiasaucer",
+        "texto": "Crypto Scammers’ New Target: Dating Apps",
+        "url": "https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-11-12T16:00:27Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Youtube swamped with crypto scams again",
+        "url": "https://news.ycombinator.com/item?id=33574239"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-05-23T00:25:53Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "todsacerdoti",
+        "texto": "Interview with a Crypto Scam Investment Spammer",
+        "url": "https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-11-11T17:20:36Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "pseudolus",
+        "texto": "Why Didn't the Government Stop the Crypto Scam?",
+        "url": "https://mattstoller.substack.com/p/why-didnt-the-government-stop-the"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-02-16T03:52:28Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "rtrgrd",
+        "texto": "Top non-ad google result for \"polymarket\" in Australia is a crypto scam",
+        "url": "https://news.ycombinator.com/item?id=47030691"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-04-27T13:17:58Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "rbanffy",
+        "texto": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
+        "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-09-24T13:41:27Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "latein",
+        "texto": "'Send a clear message': law firm's dirty tactics on behalf of $4B crypto scam",
+        "url": "https://www.thebureauinvestigates.com/stories/2025-09-23/send-a-clear-message-law-firms-dirty-tactics-on-behalf-of-4bn-crypto-scam"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-06-27T03:44:13Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "gggggs",
+        "texto": "Australian Channel Seven's YouTube channels replaced with Musk crypto-scams",
+        "url": "https://www.cyberdaily.au/security/10755-aussie-broadcaster-channel-seven-s-youtube-channels-replaced-with-elon-musk-crypto-scams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-09-18T00:55:39Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "pseudolus",
+        "texto": "One Man Lost $1M to a Crypto ‘Super Scam’ Called Pig Butchering",
+        "url": "https://www.forbes.com/sites/cyrusfarivar/2022/09/09/pig-butchering-crypto-super-scam/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-01-02T10:03:35Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "sreekars",
+        "texto": "The Great Crypto Scam Documentary by James Jani",
+        "url": "https://www.youtube.com/watch?v=ORdWE_ffirg"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-08-03T22:48:54Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "ppjim",
+        "texto": "NFTs aren't art – they're just the Cult of Crypto's latest scam",
+        "url": "https://www.salon.com/2022/02/16/nfts-arent-art--theyre-just-the-of-cryptos-latest-scam/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-08-14T23:08:37Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Crypto scams on Twitter led to $872k in losses a year, new study finds",
+        "url": "https://www.cryptopolitan.com/crypto-scams-on-twitter-led-to-872k-losses/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-09-13T02:09:45Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Crypto Scams Drained $5.6B from American Wallets in 2023",
+        "url": "https://www.vice.com/en/article/crypto-scams-2023-total-losses/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-03-23T17:11:58Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "secondcoming",
+        "texto": "Linus Tech Tips YouTube Channel Hacked to Promote Crypto Scams",
+        "url": "https://www.tomshardware.com/news/linus-tech-tips-youtube-channel-hacked-to-promote-crypto-scams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-01-06T16:38:23Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "andygcook",
+        "texto": "Crypto scammers took a record $14B in 2021",
+        "url": "https://www.cnbc.com/2022/01/06/crypto-scammers-took-a-record-14-billion-in-2021-chainalysis.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-11-15T13:54:26Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "alexrustic",
+        "texto": "Twitter vigilantes are hunting down crypto scammers",
+        "url": "https://www.wired.com/story/twitters-crypto-vigilantes-are-just-getting-started/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-03-20T08:56:12Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "alin23",
+        "texto": "My deleted Twitter account was instantly taken over by crypto scammers",
+        "url": "https://news.ycombinator.com/item?id=43421009"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-09-09T16:52:25Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Fake Elon Musk livestreams promoting crypto scams keep popping up on YouTube",
+        "url": "https://mashable.com/article/fake-elon-musk-crypto-scam-youtube-livestreams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-09-10T17:46:39Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "marban",
+        "texto": "Vitalik Buterin's Twitter account hacked to promote crypto scam",
+        "url": "https://web3isgoinggreat.com/single/vitalik-buterins-twitter-account-hacked"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-06-26T20:53:25Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "tslocum",
+        "texto": "Fake Elon Musk livestreams promoting crypto scams keep popping up on YouTube",
+        "url": "https://mashable.com/article/fake-elon-musk-crypto-scam-youtube-livestreams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-06-25T13:41:45Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "js2",
+        "texto": "SpireBit Crypto Scam",
+        "url": "https://www.npr.org/2023/06/25/1180256165/crypto-scam-senior-victims-spirebit"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-09-16T06:18:19Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "Lockal",
+        "texto": "Hunting YouTube Crypto Scams",
+        "url": "https://addshore.com/2022/09/hunting-youtube-crypto-scams/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-07-20T19:14:16Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "data_spy",
+        "texto": "Suing Influencers for Promoting Scam Crypto Coins?",
+        "url": "https://www.youtube.com/watch?v=IfztsVOGXk8"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-07-03T07:12:26Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "quickthrower2",
+        "texto": "Save the Kids Crypto Influencer Scam",
+        "url": "https://www.youtube.com/watch?v=Kv6ne6VQCZI"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-02-03T22:36:39Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "It is time to hold Twitter criminally negligent for crypto scams on its site",
+        "url": "https://news.ycombinator.com/item?id=26020117"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-10-15T04:19:28Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "anigbrowl",
+        "texto": "US charges Cambodian executive in crypto scam and seizes $14B BTC",
+        "url": "https://english.kyodonews.net/articles/-/62767"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-04-30T15:45:19Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "Brajeshwar",
+        "texto": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+        "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-04-23T11:28:20Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "bmitch3020",
+        "texto": "Crypto scam lures ships into Strait of Hormuz",
+        "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-01-03T14:07:01Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "ashishmax31",
+        "texto": "The Great Crypto Scam",
+        "url": "https://www.youtube.com/watch?v=ORdWE_ffirg"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-11-27T21:49:02Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "sn_master",
+        "texto": "Hackers stole EuroNews channel and made over 40k USD running crypto scam(so far)",
+        "url": "https://www.youtube.com/@euroresla"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-02-22T21:42:21Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "cellis",
+        "texto": "Woman scammed for 390k in Hinge crypto scam",
+        "url": "https://markets.businessinsider.com/news/currencies/crypto-crimes-woman-swindled-300000-bitcoin-hinge-romance-turned-scam-2022-2"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-01-03T18:52:46Z",
+        "tipo_estafa": "Criptomonedas",
+        "fuente": "Hacker News",
+        "usuario": "t55",
+        "texto": "Cryptoscammers Impersonated and Hacked Us – Now What?",
+        "url": "https://www.pyspur.dev/blog/cryptoscammers"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2017-01-11T10:29:57Z",
         "tipo_estafa": "Phishing",
         "fuente": "Hacker News",
@@ -178,6 +538,366 @@
         "usuario": "sophron",
         "texto": "Wifiphisher: Fast automated phishing attacks against WPA networks",
         "url": "https://github.com/sophron/wifiphisher"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2016-01-16T19:03:20Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "chrisfosterelli",
+        "texto": "Phishing attack against Lastpass",
+        "url": "https://www.seancassidy.me/lostpass.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2016-02-29T20:41:41Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "choult",
+        "texto": "Snapchat Employee Data Leaks Out Following Phishing Attack",
+        "url": "http://techcrunch.com/2016/02/29/snapchat-employee-data-leaks-out-following-phishing-attack/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-01-05T11:28:25Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "sophron",
+        "texto": "Efficient Wi-Fi Phishing Attacks",
+        "url": "https://www.tripwire.com/state-of-security/security-awareness/efficient-wi-fi-phishing-attacks-would-you-fall-for-that/#.WG0DNcFl3Ck.twitter"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-04-08T13:29:19Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "kendriklampar",
+        "texto": "USPS jumps to first place as most imitated brand in phishing attacks",
+        "url": "https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-02-08T03:05:01Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "wglb",
+        "texto": "Phishing Attacks via Google translate",
+        "url": "https://blogs.akamai.com/sitr/2019/02/phishing-attacks-against-facebook-google-via-google-translate.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-08-16T14:37:00Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "mikece",
+        "texto": "Major U.S. energy org targeted in QR code phishing attack",
+        "url": "https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-09-07T12:37:27Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "justin66",
+        "texto": "Germany complains to Moscow over pre-election phishing attacks on politicians",
+        "url": "https://www.washingtonpost.com/world/germany-russia-cyber-attack/2021/09/06/7b9ca734-0f28-11ec-baca-86b144fc8a2d_story.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2011-06-15T16:35:35Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "packetwerks",
+        "texto": "Just launched our web-based spear phishing attack simulator app",
+        "url": "http://www.threatsim.com"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2016-06-24T20:21:41Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "DamienSF",
+        "texto": "Smart Contract Wallets created in frontier are vulnerable to phishing attacks",
+        "url": "https://blog.ethereum.org/2016/06/24/security-alert-smart-contract-wallets-created-in-frontier-are-vulnerable-to-phishing-attacks/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2018-06-09T15:27:03Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "xkcd-sucks",
+        "texto": "Auth0 Glitch Allows Attackers to Launch Phishing Attacks",
+        "url": "https://threatpost.com/auth0-glitch-allows-attackers-to-launch-phishing-attacks/132554/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-07-01T16:40:03Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "geelen",
+        "texto": "New GitHub phishing attack due to missing DMARC",
+        "url": "https://twitter.com/glenmaddern/status/1278252319646367744"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-02-20T16:57:54Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "yellow_postit",
+        "texto": "$1.7M in NFTs stolen in apparent phishing attack on OpenSea users",
+        "url": "https://www.theverge.com/2022/2/20/22943228/opensea-phishing-hack-smart-contract-bug-stolen-nft"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-05-16T05:18:48Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "taubek",
+        "texto": "Google's .zip Top Level domain is already used in phishing attacks",
+        "url": "https://www.ghacks.net/2023/05/15/googles-zip-top-level-domain-is-already-used-in-phishing-attacks/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-02-08T03:01:56Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "wglb",
+        "texto": "New phishing attack uses Morse code to hide malicious URLs",
+        "url": "https://www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-01-19T17:15:19Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "xweb",
+        "texto": "There's a new Gmail phishing attack going around, and it's fooling everyone",
+        "url": "http://www.techrepublic.com/article/theres-a-new-gmail-phishing-attack-going-around-and-its-fooling-everyone/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-01-04T03:48:16Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "kungfudoi",
+        "texto": "Ongoing Flipper Zero phishing attacks target infosec community",
+        "url": "https://www.bleepingcomputer.com/news/security/ongoing-flipper-zero-phishing-attacks-target-infosec-community/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-11-05T05:03:46Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "sandwichsphinx",
+        "texto": "Windows infected with backdoored Linux VMs in new phishing attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-11-02T02:50:04Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "0xmohit",
+        "texto": "Dropbox admits 130 of its private GitHub repos were copied after phishing attack",
+        "url": "https://www.theregister.com/2022/11/01/dropbox_phishing_code_leak/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-09-23T22:46:14Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "computersuck",
+        "texto": "GitHub Y Combinator phishing attack",
+        "url": "https://github.com/ycombiinator/ycombinator-co/issues"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2018-06-22T23:31:25Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "thewizardofaus",
+        "texto": "Homeless after phishing attack",
+        "url": "https://www.smh.com.au/business/companies/masterchef-finalist-caught-in-conveyancing-hacker-attack-20180622-p4zn4o.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2014-12-17T14:23:17Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "dorfsmay",
+        "texto": "ICANN Targeted in Spear Phishing Attack",
+        "url": "https://www.icann.org/news/announcement-2-2014-12-16-en"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2016-12-15T20:36:20Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "wsgreen",
+        "texto": "Show HN: Computer vision to detect phishing attacks",
+        "url": "https://news.ycombinator.com/item?id=13188126"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2015-04-24T10:28:27Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "jgrahamc",
+        "texto": "Of Phishing Attacks and WordPress 0days",
+        "url": "https://blog.cloudflare.com/of-phishing-attacks-and-wordpress-0days/?"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-05-18T22:54:04Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "boyter",
+        "texto": "Mailinator and the Recent Google Docs Phishing Attack",
+        "url": "http://mailinator.blogspot.com/2017/05/mailinator-and-recent-google-docs.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-12-29T18:23:50Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "danboarder",
+        "texto": "Advanced phishing attack: Pop up on iPhone and Watch, then received call",
+        "url": "https://twitter.com/geoburke/status/1608253982387933184"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-01-10T12:00:25Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "finnnk",
+        "texto": "Browser autofill used to steal personal details in new phishing attack",
+        "url": "https://www.theguardian.com/technology/2017/jan/10/browser-autofill-used-to-steal-personal-details-in-new-phising-attack-chrome-safari"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-07-31T17:00:16Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "miketheman",
+        "texto": "PyPI Phishing Attack: Incident Report",
+        "url": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-01-28T15:05:17Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "Ansil849",
+        "texto": "Anatomy of a Facebook-Hosted Phishing Attack",
+        "url": "https://tech.firstlook.media/anatomy-of-a-facebook-hosted-phishing-attack"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-02-12T21:33:59Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "zola",
+        "texto": "Phishing attack underway using namecheap.com infrastructure",
+        "url": "https://twitter.com/lemogbenga/status/1624881422640062470"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-05-03T19:38:33Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "stevewilhelm",
+        "texto": "Google Docs users hit with sophisticated phishing attack",
+        "url": "https://www.theverge.com/2017/5/3/15534768/google-docs-phishing-attack-share-this-document-with-you-spam"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-01-25T01:26:32Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "arkadiyt",
+        "texto": "Zendesk Hacked After Employees Fall for Phishing Attack",
+        "url": "https://www.securityweek.com/zendesk-hacked-after-employees-fall-for-phishing-attack/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-08-24T16:13:26Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "rhu86",
+        "texto": "Phishing attack against PyPI users",
+        "url": "https://twitter.com/pypi/status/1562442188285308929"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-04-03T11:02:54Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "decio",
+        "texto": "Trezor wallets hacked? Don’t be duped by phishing attack email",
+        "url": "https://grahamcluley.com/trezor-wallets-hacked-dont-be-duped-by-phishing-attack-email/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2013-05-08T22:58:05Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "bradleybuda",
+        "texto": "Protecting Your Company From Phishing Attacks",
+        "url": "http://blog.meldium.com/2013/5/8/protecting-your-company-from-phishing-attacks"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-05-15T21:16:57Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "Cider9986",
+        "texto": "Signal adds security warnings for social engineering, phishing attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-03-19T16:48:56Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "akyuu",
+        "texto": "Apple Passwords app was vulnerable to phishing attacks for 3 months after launch",
+        "url": "https://9to5mac.com/2025/03/18/apples-passwords-app-was-vulnerable-to-phishing-attacks-for-nearly-three-months-after-launch/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-09-30T14:42:33Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "mooreds",
+        "texto": "IRS warns Americans of rise in SMS phishing attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/irs-warns-americans-of-massive-rise-in-sms-phishing-attacks/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-02-21T02:25:45Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "ourmandave",
+        "texto": "Hacker Uses Phishing Attack to Steal $1.7M in NFTs from OpenSea Users",
+        "url": "https://gizmodo.com/hacker-steals-nfts-from-opensea-users-phishing-attack-1848570135"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-01-25T15:12:21Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "Ansil849",
+        "texto": "Anatomy of a Facebook-Hosted Phishing Attack",
+        "url": "https://code.firstlook.media/anatomy-of-a-facebook-hosted-phishing-attack"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2016-04-07T11:21:56Z",
+        "tipo_estafa": "Phishing",
+        "fuente": "Hacker News",
+        "usuario": "uzumakinaruto",
+        "texto": "Forget Encryption, WhatsApp Is Vulnerable to Phishing Attacks",
+        "url": "http://www.nextbigwhat.com/whatsapp-phishing-attacks-297/"
     },
     {
         "fecha_extraccion": "2026-06-27",
@@ -271,6 +991,366 @@
     },
     {
         "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2010-10-18T22:05:52Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "annajohnson",
+        "texto": "Beware This Venture Capital Investment Scam",
+        "url": "http://www.kikabink.com/news/beware-this-venture-capital-investment-scam/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-03-15T14:17:33Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "LinuxBender",
+        "texto": "New online investment scams powered by bots to simulate fake experts",
+        "url": "https://www.scmagazine.com/news/new-online-investment-scams-powered-by-bots-to-simulate-fake-experts"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-04-03T16:16:52Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "todsacerdoti",
+        "texto": "A Serial Tech Investment Scammer Takes Up Coding?",
+        "url": "https://krebsonsecurity.com/2023/04/a-serial-tech-investment-scammer-takes-up-coding/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-05-07T13:22:36Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "todsacerdoti",
+        "texto": "Investment Scammer John Davies Reinvents Himself?",
+        "url": "https://krebsonsecurity.com/2021/05/investment-scammer-john-davies-reinvents-himself/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-06-13T06:22:39Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "dotcoma",
+        "texto": "Attorney General Bonta Urges Action by Meta to Prevent Investment Scam Ads",
+        "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-urges-immediate-action-meta-prevent-investment-scam"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-01-25T15:45:54Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "_spduchamp",
+        "texto": "Fake CBC news stories on X promoting investment scam Quantum AI",
+        "url": "https://www.cbc.ca/news/canada/cbc-ads-fake-investment-scheme-1.7439812"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-05-23T12:02:39Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "feross",
+        "texto": "Interview with a Crypto Scam Investment Spammer",
+        "url": "https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-04-04T01:43:12Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "impish9208",
+        "texto": "A Serial Tech Investment Scammer Takes Up Coding?",
+        "url": "https://krebsonsecurity.com/2023/04/a-serial-tech-investment-scammer-takes-up-coding/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-06-08T02:40:01Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "stereoradonc",
+        "texto": "FTC says consumers have lost more than $80M to crypto-investment scams",
+        "url": "https://www.wsj.com/articles/crypto-frauds-target-investors-hoping-to-cash-in-on-bitcoin-boom-11623058380"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-05-10T14:36:29Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "elsewhen",
+        "texto": "Investment Scammer John Davies Reinvents Himself?",
+        "url": "https://krebsonsecurity.com/2021/05/investment-scammer-john-davies-reinvents-himself/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-04-17T08:16:40Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "qqqqquinnnnn",
+        "texto": "Is Green Investment a Scam?",
+        "url": "https://www.economist.com/finance-and-economics/2021/03/27/the-impact-of-green-investors"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-02-18T14:44:22Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "harshjv",
+        "texto": "Bitcoin Investment Scam",
+        "url": "https://news.ycombinator.com/item?id=13674927"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-03-10T02:32:58Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "GeminiAi",
+        "texto": "Gemini AI Help and Support: What to Do After a Cryptocurrency Investment Scam",
+        "url": "https://news.ycombinator.com/item?id=47318462"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-07-06T11:09:14Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "neeravamin12",
+        "texto": "Ratefin Investment Scam Exposed: Cybercriminals Cash in on Fake Returns",
+        "url": "https://news.ycombinator.com/item?id=44479661"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-04-08T13:37:15Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "marcusb",
+        "texto": "Six arrested for AI-powered investment scams that stole $20M",
+        "url": "https://www.bleepingcomputer.com/news/security/six-arrested-for-ai-powered-investment-scams-that-stole-20-million/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-12-02T14:39:14Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "rntn",
+        "texto": "CashRewindo: How to age domains for an investment scam like fine scotch",
+        "url": "https://blog.confiant.com/cashrewindo-how-to-age-domains-for-an-investment-scam-like-fine-scotch-a48d22788c84"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-11-29T17:43:39Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "hhipk",
+        "texto": "CashRewindo: How to age domains for an investment scam like fine scotch",
+        "url": "https://blog.confiant.com/cashrewindo-how-to-age-domains-for-an-investment-scam-like-fine-scotch-a48d22788c84"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-08-14T14:02:11Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "LinuxBender",
+        "texto": "300k links taken down in crackdown investment scams with bogus endorsements",
+        "url": "https://www.zdnet.com/article/300000-links-taken-down-in-crackdown-on-investment-scams-with-bogus-celebrity-endorsements/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-03-01T19:05:44Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "hhs",
+        "texto": "Revealed: fake 'traders' allegedly prey on victims in global investment scam",
+        "url": "https://www.theguardian.com/world/2020/mar/01/revealed-fake-traders-allegedly-prey-on-victims-in-global-investment-scam"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2010-06-14T02:37:37Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "georgecmu",
+        "texto": "Gulf oil spill attracts investment scams ",
+        "url": "http://www.miamiherald.com/2010/06/01/1657702/even-gulf-oil-spill-attracts-investment.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2015-09-28T08:42:24Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "torizen",
+        "texto": "Investment Scam",
+        "url": "https://medium.com/@englishpaulm/investment-scam-a0c1ddc62f19"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-06-14T09:31:03Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "ncmncm",
+        "texto": "Gravity Energy Storage",
+        "url": "https://news.ycombinator.com/item?id=31736539"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-01-30T11:27:07Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "Lisa1314",
+        "texto": "Analyzing the Fraud Vector: How Ormix Uses Mock Trading Engines to Trap Capital",
+        "url": "https://news.ycombinator.com/item?id=46823141"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-04-30T15:45:19Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "Brajeshwar",
+        "texto": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+        "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-10-31T12:58:33Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "Frieren",
+        "texto": "Savers in Sweden conned out of millions in AI-powered scams",
+        "url": "https://www.sverigesradio.se/artikel/thousands-of-small-savers-in-sweden-conned-out-of-millions-in-ai-powered-deepfake-investment-scams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-10-17T17:13:31Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "gnabgib",
+        "texto": "Scammers are pretending to be Elon Musk. They're stealing millions",
+        "url": "https://gizmodo.com/elon-musk-spacex-neuralink-grok-xai-investment-scam-2000669248"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-10-30T05:16:34Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "paltaparty",
+        "texto": "The Original Posting: Rayton Solar – Legitimate or Scam",
+        "url": "https://medium.com/@paltaparty/rayton-solar-legitimate-investment-or-scam-and-why-is-bill-nye-the-science-guy-promoting-it-18ed3c06bae2"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-01-13T17:32:14Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "mhoad",
+        "texto": "North Korean Hackers Impersonate Major Crypto Investment Firm to Scam Startups",
+        "url": "https://www.vice.com/en/article/jgmjqk/north-korean-hackers-impersonate-major-crypto-investment-firm-to-scam-startups"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-05-10T13:21:04Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "danieloloughlin",
+        "texto": "Business Idea: Destroying the Email Scammer Industry",
+        "url": "https://news.ycombinator.com/item?id=35886945"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-04-20T19:32:38Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "tuna-piano",
+        "texto": "A company appears to be taking advantage of new investment rules with a scam IPO",
+        "url": "https://news.ycombinator.com/item?id=14160018"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-07-23T10:48:04Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "charityjonathan",
+        "texto": "Victim of an NFT Scam or Cryptocurrency Investment Fraud? Take Action Now",
+        "url": "https://news.ycombinator.com/item?id=44657708"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-05-24T03:21:29Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "lxm",
+        "texto": "Many graduate programs are “scams,” according to higher education policy analyst",
+        "url": "https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-11-25T08:20:18Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "ninefoundation",
+        "texto": "Ask HN: Sequoia's Coinswitch / Kuber Scam – Theft via perpetual KYC delay",
+        "url": "https://news.ycombinator.com/item?id=25207018"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-07-21T21:52:25Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "artur_makly",
+        "texto": "Tell HN: Private Equity Scam – Asks for Rev#s+Fees",
+        "url": "https://news.ycombinator.com/item?id=44640835"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2012-05-23T21:21:13Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "imcqueen",
+        "texto": "Silicon Valley Exec Caught Stealing Legos from Target",
+        "url": "http://news.yahoo.com/software-exec-charged-lego-bar-code-scam-131139992--abc-news-savings-and-investment.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-07-07T03:27:24Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "mgh2",
+        "texto": "South African investment firm vanishes with $3.6B in Bitcoin",
+        "url": "https://www.indiatoday.in/technology/news/story/investment-firm-vanishes-with-3-6-billion-in-bitcoin-in-possibly-the-biggest-bitcoin-scam-in-history-1820893-2021-06-30"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2013-03-08T21:55:59Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "Amarandei",
+        "texto": "Beware of fake VC scams",
+        "url": "https://news.ycombinator.com/item?id=5345985"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-11-20T21:48:43Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "belter",
+        "texto": "Sequoia Agreed on $200M FTX Investment While Founder Played League of Legends",
+        "url": "https://kotaku.com/ftx-crypto-scam-gamestop-token-league-legends-sbf-nft-1849767748"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2008-12-02T05:58:23Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "poshj",
+        "texto": "Ask: Know any good community site about online investment?",
+        "url": "https://news.ycombinator.com/item?id=382693"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2013-05-15T03:50:45Z",
+        "tipo_estafa": "Inversiones",
+        "fuente": "Hacker News",
+        "usuario": "danman01",
+        "texto": "What scam is Denis trying to pull?",
+        "url": "https://news.ycombinator.com/item?id=5710063"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2022-01-16T03:15:31Z",
         "tipo_estafa": "Sorteos falsos",
         "fuente": "Hacker News",
@@ -361,6 +1441,366 @@
     },
     {
         "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-08-08T01:29:20Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Cryptocurrency Giveaway Scam with YouTube Live Stream",
+        "url": "https://arxiv.org/abs/2205.12897"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-07-16T23:32:22Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "More YouTube crypto giveaway scams",
+        "url": "https://news.ycombinator.com/item?id=27862353"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-12-31T02:38:08Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "jazzyjackson",
+        "texto": "Ethereum “Giveaway” Scam Live-Streaming on YouTube",
+        "url": "https://www.youtube.com/watch?v=z2aVaCreUvI"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-07-23T14:40:22Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "speeder",
+        "texto": "Apple Co-Founder Steve Wozniak Sues YouTube over Bitcoin Giveaway Scams",
+        "url": "https://www.coindesk.com/apple-co-founder-steve-wozniak-sues-youtube-over-bitcoin-giveaway-scams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-07-26T19:08:34Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Cryptocurrency Giveaway Scam with YouTube Live Stream (2022)",
+        "url": "https://arxiv.org/abs/2205.12897"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-07-23T23:19:03Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "2020 Giveaway Scams: The 2nd Interview with Frank from Whale Alert",
+        "url": "https://blog.btcbox.jp/en/archives/12701"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-01-16T05:38:39Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Exposing the Biggest Scam Ring on YouTube (livestream giveaway scams)",
+        "url": "https://www.youtube.com/watch?v=s8yRY4e8J7Q"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-07-24T14:49:36Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "nonoesp",
+        "texto": "Crypto Giveaway Scam with YouTube Live Stream",
+        "url": "https://arxiv.org/abs/2205.12897"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-11-08T21:46:22Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "Elon Musk and Space-X twitter accounts inundated by crypto giveaway scams spam",
+        "url": "https://news.ycombinator.com/item?id=29154680"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2017-03-13T18:47:12Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paradite",
+        "texto": "Free Giveaway Marketing “Scam” on LinkedIn",
+        "url": "https://paradite.com/2017/03/14/free-giveaway-marketing-scam-linkedin/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-05-18T20:36:36Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Give and Take: An End-to-End Investigation of Giveaway Scam Conversion Rates",
+        "url": "https://arxiv.org/abs/2405.09757"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-08-21T02:25:09Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams [pdf]",
+        "url": "https://double-and-nothing.github.io/paper/ndss23-fall-final584.pdf"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-08-15T14:20:08Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "DocFeind",
+        "texto": "Understanding Cryptocurrency Free Giveaway Scams Disseminated on Twitter Lists",
+        "url": "https://www.researchgate.net/publication/371727955_Understanding_the_Cryptocurrency_Free_Giveaway_Scam_Disseminated_on_Twitter_Lists"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-10-31T17:12:39Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Crypto giveaway scams surge: the number fake domains grows five-fold in H1 2022",
+        "url": "https://www.group-ib.com/media-center/press-releases/massive-crypto-attack/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-02-22T11:45:29Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "Chamath and Elon Twitter being hit hard with giveaway scams",
+        "url": "https://news.ycombinator.com/item?id=26223414"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-09-29T16:59:17Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Hackers Hijacking HighProfile YouTube Channels to Promote Bitcoin Giveaway Scams",
+        "url": "https://www.digitalinformationworld.com/2020/08/following-the-twitter-hack-hackers-are-now-hijacking-high-profile-youtube-channels-to-promote-bitcoin-giveaway-scams.html#"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-04-10T23:02:40Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Cryptocurrency Scams: Giveaways Impersonate Followers of Notable Figures",
+        "url": "https://www.tenable.com/blog/cryptocurrency-scams-fake-giveaways-impersonate-followers-of-political-and-other-notable"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-12-22T15:04:05Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "XRP giveaway scams return to YouTube with a vengeance. $30k/day profits",
+        "url": "https://medium.com/@cryptoinvestigations/xrp-giveaway-scams-return-to-youtube-with-a-vengeance-30k-day-profits-b701e09181e3"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-12-20T16:59:36Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "checkphish",
+        "texto": "Cryptocurrency Giveaway Scam – One Minute Cybersecurity Educational Videos",
+        "url": "https://www.youtube.com/watch?v=WhRSutLFJA4&feature=emb_logo"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-11-01T14:11:34Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "YouTube XRP Giveaway Scammers Making $50k/Day",
+        "url": "https://medium.com/@robertyusert/youtube-xrp-giveaway-scammers-making-50-000-day-f0ee6909e621"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-08-30T10:39:06Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Interview with a Twitter ETH Giveaway Scam Ringleader Making $50K+ USD Daily",
+        "url": "https://www.bitcoinstacks.com/wbb/index.php?thread/15081-exclusive-interview-with-a-twitter-eth-giveaway-scam-ringleader-making-50k-100k/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2018-08-29T12:19:46Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "Thibaut1",
+        "texto": "Interview with a Twitter ETH Giveaway Scam Ringleader Making 50K-100K USD Daily",
+        "url": "https://www.bitcoinstacks.com/wbb/index.php?thread/15081-exclusive-interview-with-a-twitter-eth-giveaway-scam-ringleader-making-50k-100k/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2018-08-02T16:34:03Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Ethereum “Giveaway” Scammers Have Tricked People Out of $4.3M",
+        "url": "https://www.bleepingcomputer.com/news/security/ethereum-giveaway-scammers-have-tricked-people-out-of-43-million/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-09-16T20:27:54Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "alangibson",
+        "texto": "Active Bitcoin/Etherium Scam on YouTube Using SpaceX Inspiration4 Mission",
+        "url": "https://news.ycombinator.com/item?id=28557092"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-09-15T01:08:53Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "ETH merge verified Twitter scam, 50 ETH stolen",
+        "url": "https://news.ycombinator.com/item?id=32845720"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-02-17T12:48:49Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "Today's verified Twitter scam report",
+        "url": "https://news.ycombinator.com/item?id=26165739"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-06-28T00:12:40Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "YouTube crypto scam videos at it again, making huge money",
+        "url": "https://news.ycombinator.com/item?id=27656714"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-04-27T15:43:56Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "antonp",
+        "texto": "Ask HN for help: YouTube scam ads on Android TV",
+        "url": "https://news.ycombinator.com/item?id=26957493"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2021-06-26T22:19:11Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "hamiltonians",
+        "texto": "YouTube microstrategy scam video earns $400k",
+        "url": "https://coinfomania.com/avoid-microstrategyfund-bitcoin-giveaway-scam/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-05-16T21:04:52Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "YouTube plagued by fake Elon Musk Bitcoin giveaway videos",
+        "url": "https://www.independent.co.uk/tech/youtube-bitcoin-giveaway-scam-elon-musk-ethereum-b2048425.html"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-11-21T14:18:43Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "bitok",
+        "texto": "BitOK Exposes Scammers Who Raised $165,000 in Crypto Through Fake Donations",
+        "url": "https://bitok.org/blog/spacex_scam_giveaway_20_nov"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-11-01T18:34:42Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "XRP YouTube Scammers Making $50k/Day",
+        "url": "https://medium.com/@cryptoinvestigations/youtube-xrp-giveaway-scammers-making-50-000-day-6074e57cae9b"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-08-20T23:33:28Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "BXLE_1-1-BitIs1",
+        "texto": "YouTube giveaway shipping cost scam",
+        "url": "https://news.ycombinator.com/item?id=32536078"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-12-26T14:01:51Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Cryptocurrency Fake Giveaways Impersonate Elon Musk, Trump, and Others",
+        "url": "https://www.tenable.com/blog/cryptocurrency-scams-fake-giveaways-impersonate-followers-of-political-and-other-notable"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-02-19T21:07:06Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "sat_nam",
+        "texto": "Cryptocurrency Scammers Impersonate Followers of Political Figures on Twitter",
+        "url": "https://www.tenable.com/blog/cryptocurrency-scams-fake-giveaways-impersonate-followers-of-political-and-other-notable"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2019-10-25T17:45:01Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "sat_nam",
+        "texto": "Square's Cash App Targeted by Scammers on Twitter, Instagram, and YouTube",
+        "url": "https://www.tenable.com/blog/cash-app-scams-legitimate-giveaways-provide-boost-to-opportunistic-scammers"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2018-11-14T07:39:41Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "techaddict009",
+        "texto": "Google's One of Official Twitter Account Hacked – Scammers Promoted BTC Giveaway",
+        "url": "https://www.cryptoground.com/a/googles-official-twitter-account-hacked-scammers-promoted-bitcoin-giveaway"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2013-03-08T21:55:59Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "Amarandei",
+        "texto": "Beware of fake VC scams",
+        "url": "https://news.ycombinator.com/item?id=5345985"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-01-04T17:49:00Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "paulpauper",
+        "texto": "Scammers Using Fake YouTube Giveaway Stream to Steal Crypto Worth and$10M",
+        "url": "https://blog.cryptostars.is/how-scammers-are-using-fake-youtube-giveaway-stream-to-steal-crypto-worth-10-million-501f275d58a5"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-05-13T15:36:33Z",
+        "tipo_estafa": "Sorteos falsos",
+        "fuente": "Hacker News",
+        "usuario": "sat_nam",
+        "texto": "Scams Exploit Covid-19 Giveaways via Venmo, PayPal and Cash App",
+        "url": "https://www.tenable.com/blog/scams-exploit-covid-19-giveaways-via-venmo-paypal-and-cash-app"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
         "fecha_publicacion": "2026-06-02T19:18:29Z",
         "tipo_estafa": "Suplantación",
         "fuente": "Hacker News",
@@ -448,5 +1888,176 @@
         "usuario": "akcreek",
         "texto": "Ask HN: Meta blocks our legit business while scammers use our name freely",
         "url": "https://news.ycombinator.com/item?id=46141001"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-05-06T21:42:42Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "PaulHoule",
+        "texto": "More than 100 arrested in Spain in $900k WhatsApp scheme",
+        "url": "https://therecord.media/spain-arrests-whatsapp-impersonation-scams"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-01-30T21:06:57Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "PaulHoule",
+        "texto": "Chainalysis: Impersonation, AI crypto scams stole $17B last year",
+        "url": "https://www.coindesk.com/business/2026/01/14/chainalysis-report-reveals-impersonation-and-ai-crypto-scams-surpass-cyberattacks"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-01-18T06:53:55Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "dvh",
+        "texto": "Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?",
+        "url": "https://news.ycombinator.com/item?id=46665414"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2020-04-20T20:42:57Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "arikr",
+        "texto": "Ask HN: What's a good resource to help employees avoid scams and wire fraud?",
+        "url": "https://news.ycombinator.com/item?id=22928298"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-02-17T14:01:14Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "idsearcher",
+        "texto": "Show HN: I built a tool to check if someone is real online",
+        "url": "https://nexid.id"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-01-24T13:09:01Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "Anuranjan_Vikas",
+        "texto": "Show HN: Kaval – WhatsApp agent that checks if content is real or fake",
+        "url": "https://www.kaval.chat/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2022-07-14T14:42:00Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "aarbor989",
+        "texto": "Tell HN: Upwork has an impersonation problem",
+        "url": "https://news.ycombinator.com/item?id=32096656"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-06-16T19:03:54Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "b2v",
+        "texto": "Show HN: b2v.xyz – Protection against impersonation attacks",
+        "url": "https://get.b2v.xyz/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2013-04-21T11:57:35Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "eramirem",
+        "texto": "Twitter impersonation cases are out of control",
+        "url": "https://news.ycombinator.com/item?id=5584589"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-06-30T12:49:41Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "b2v",
+        "texto": "Show HN: B2V – Protection against impersonation attacks",
+        "url": "https://get.b2v.xyz/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-05-17T21:04:16Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "eranation",
+        "texto": "Ask HN: Why aren't more people worried about AI impersonation in code reviews?",
+        "url": "https://news.ycombinator.com/item?id=48173182"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2024-08-08T18:23:57Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "n2d4",
+        "texto": "Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative",
+        "url": "https://github.com/stack-auth/stack"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-08-18T15:16:34Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "bpcrd",
+        "texto": "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
+        "url": "https://www.realitydefender.com/platform/api"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-12-24T16:30:40Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "choraria",
+        "texto": "Show HN: No more writing shitty regexes to police usernames",
+        "url": "https://www.username.dev"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2023-05-23T08:58:41Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "tylerdurden91",
+        "texto": "Ask HN: How to regain access to Facebook page or get it deleted?",
+        "url": "https://news.ycombinator.com/item?id=36041703"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-06-29T16:09:46Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "eibrahim",
+        "texto": "Show HN: EliteSaaS – Self-Contained SaaS Starter (Auth, Billing, Email, Launch)",
+        "url": "https://www.elitesaas.dev"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2025-12-17T19:51:56Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "gonc",
+        "texto": "Show HN: A netcat for the NAT era – connect peers via passphrase only",
+        "url": "https://www.gonc.cc/"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2026-01-14T19:14:34Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "mjomaa",
+        "texto": "Show HN: Achromatic – AI Ready Next.js 16 Starter Kit",
+        "url": "https://news.ycombinator.com/item?id=46621156"
+    },
+    {
+        "fecha_extraccion": "2026-06-27",
+        "fecha_publicacion": "2010-09-19T10:10:54Z",
+        "tipo_estafa": "Suplantación",
+        "fuente": "Hacker News",
+        "usuario": "Hostymail",
+        "texto": "Be secured using SharePoint Server 2010 Claims based Authentication",
+        "url": "https://news.ycombinator.com/item?id=1705944"
     }
 ]

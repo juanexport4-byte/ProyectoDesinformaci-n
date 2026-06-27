@@ -20,13 +20,18 @@ fetch('datos.json')
 
 // Gráfico general combinado
 function construirGraficoGeneral() {
-  const etiquetas = datos.bluesky.etiquetas
+  // Unir etiquetas de ambas fuentes sin repetir
+  const todasEtiquetas = [...new Set([
+    ...datos.bluesky.etiquetas,
+    ...datos.fuente2.etiquetas
+  ])]
 
-  const valoresCombinados = etiquetas.map((etiqueta, i) => {
-    const valorBluesky = datos.bluesky.valores[i] || 0
-    const indiceFuente2 = datos.fuente2.etiquetas.indexOf(etiqueta)
-    const valorFuente2 = indiceFuente2 !== -1 ? datos.fuente2.valores[indiceFuente2] : 0
-    return valorBluesky + valorFuente2
+  const valoresCombinados = todasEtiquetas.map(etiqueta => {
+    const iBsky = datos.bluesky.etiquetas.indexOf(etiqueta)
+    const iFuente2 = datos.fuente2.etiquetas.indexOf(etiqueta)
+    const vBsky = iBsky !== -1 ? datos.bluesky.valores[iBsky] : 0
+    const vFuente2 = iFuente2 !== -1 ? datos.fuente2.valores[iFuente2] : 0
+    return vBsky + vFuente2
   })
 
   const ctx = document.getElementById('mi-grafico').getContext('2d')
@@ -35,7 +40,7 @@ function construirGraficoGeneral() {
   miGrafico = new Chart(ctx, {
     type: 'bar',
     data: {
-      labels: etiquetas,
+      labels: todasEtiquetas,
       datasets: [{
         label: 'Total de posts',
         data: valoresCombinados,
@@ -104,7 +109,7 @@ function cambiarPlataforma(plataforma) {
 
 function volverInicio() {
   document.getElementById('vista-plataforma').style.display = 'none'
-  document.getElementById('vista-inicio').style.display = 'flex'
+  document.getElementById('vista-inicio').style.display = 'block'
 }
 
 function mostrarDetalle(etiqueta) {

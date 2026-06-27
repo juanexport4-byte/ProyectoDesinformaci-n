@@ -55,7 +55,7 @@ if __name__ == "__main__":
     todos_los_datos = []
 
     for categoria, termino in categorias.items():
-        resultados = buscar_hackernews(categoria, termino, limite=10)
+        resultados = buscar_hackernews(categoria, termino, limite=50)
         todos_los_datos.extend(resultados)
 
     print(f"\nTotal de posts extraídos: {len(todos_los_datos)}")
