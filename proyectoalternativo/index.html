@@ -4,57 +4,68 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Monitor de Desinformación</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800;900&family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
+  <!-- ENCABEZADO -->
   <div id="encabezado">
     <h1>Monitor de Desinformación</h1>
     <p>Análisis de comportamiento inauténtico en redes sociales</p>
   </div>
 
-  <div class="contenedor-botones">
-    <button class="btn-plataforma" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
-    <button class="btn-plataforma" onclick="cambiarPlataforma('reddit')">Reddit</button>
-  </div>
-
+  <!-- VISTA GENERAL (inicio) -->
   <div id="vista-inicio">
-    <h2>Top estafas detectadas — todas las plataformas</h2>
-    <canvas id="mi-grafico"></canvas>
 
-    <h2>Datos recolectados</h2>
-    <table id="tabla-datos">
-      <thead>
-        <tr>
-          <th>Fecha extracción</th>
-          <th>Tipo de estafa</th>
-          <th>Fuente</th>
-          <th>URL</th>
-        </tr>
-      </thead>
-      <tbody id="cuerpo-tabla"></tbody>
-    </table>
+    <!-- BOTONES -->
+    <div class="contenedor-botones">
+      <button class="btn-plataforma" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
+      <button class="btn-plataforma" onclick="cambiarPlataforma('fuente2')">Hacker News</button>
+    </div>
+
+    <!-- GRÁFICO GENERAL -->
+    <div id="seccion-grafico">
+      <h2>Top 5 estafas detectadas — todas las plataformas</h2>
+      <canvas id="mi-grafico"></canvas>
+    </div>
+
+    <!-- TABLA -->
+    <div id="seccion-tabla">
+      <h2>Datos recolectados</h2>
+      <table id="tabla-datos">
+        <thead>
+          <tr>
+            <th>Fecha extracción</th>
+            <th>Tipo de estafa</th>
+            <th>Fuente</th>
+            <th>URL</th>
+          </tr>
+        </thead>
+        <tbody id="cuerpo-tabla"></tbody>
+      </table>
+    </div>
+
   </div>
 
+  <!-- VISTA POR PLATAFORMA -->
   <div id="vista-plataforma" style="display: none;">
     <button onclick="volverInicio()">← Volver</button>
     <p id="nombre-plataforma"></p>
     <canvas id="grafico-plataforma"></canvas>
   </div>
 
+  <!-- MODAL -->
   <div id="modal-overlay" style="display: none;">
     <div id="modal-contenido">
       <button id="btn-cerrar-modal" onclick="cerrarModal()">✕ Cerrar</button>
       <h2 id="modal-titulo">Título</h2>
       <p id="modal-plataforma">Plataforma</p>
       <p id="modal-resumen">Resumen aquí...</p>
+      <canvas id="modal-grafico"></canvas>
     </div>
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
   <script src="script.js"></script>
+
 </body>
-</html>
