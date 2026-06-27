@@ -3,7 +3,7 @@
    Material Design 3 · Glassmorphism · 3D depth
    ══════════════════════════════════════════════ */
 
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800;900&family=Be+Vietnam+Pro:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Be+Vietnam+Pro:wght@400;500;600&display=swap');
 
 /* ─── Design tokens ─── */
 :root {
@@ -12,24 +12,18 @@
     --surface:                  #17161c;
     --surface-high:             #1e1d24;
     --surface-highest:          #27262e;
-
     --on-surface:               #e5e1e7;
     --on-surface-variant:       #948f9a;
     --outline:                  #948f9a;
     --outline-variant:          #49454f;
-
     --primary:                  #e9ddff;
     --primary-container:        #d0bcff;
     --on-primary:               #37265e;
-
     --tertiary-container:       #efb8c8;
-
     --error:                    #ffb4ab;
-
     --ease-m3:    cubic-bezier(0.2, 0, 0, 1);
     --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
 
-    /* ── Sombras 3D ── */
     --shadow-card:
         0 2px  0  rgba(255,255,255,0.045) inset,
         0 -4px 0  rgba(0,0,0,0.45) inset,
@@ -55,12 +49,6 @@
         0 1px  0  rgba(255,255,255,0.05) inset,
         0 -1px 0  rgba(0,0,0,0.4) inset;
 
-    --shadow-table:
-        0 2px  0  rgba(255,255,255,0.04) inset,
-        0 -6px 0  rgba(0,0,0,0.5) inset,
-        0 24px 60px rgba(0,0,0,0.55),
-        0 0 0 1px rgba(208,188,255,0.04);
-
     --shadow-modal:
         0 40px 80px rgba(0,0,0,0.7),
         0 0 0  1px rgba(208,188,255,0.07),
@@ -72,7 +60,7 @@
 *, ::before, ::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 
-/* ─── Body + fondo ambiental ─── */
+/* ─── Body ─── */
 body {
     margin: 0;
     padding: 48px clamp(20px, 5vw, 72px) 80px;
@@ -89,54 +77,135 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-a {
-    color: var(--primary-container);
-    text-decoration: none;
-}
+a { color: var(--primary-container); text-decoration: none; }
 
 /* ─── Scrollbar ─── */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb {
-    background: rgba(208,188,255,0.2);
-    border-radius: 3px;
-}
+::-webkit-scrollbar-thumb { background: rgba(208,188,255,0.2); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: rgba(208,188,255,0.38); }
 
-/* ─── Focus ─── */
-:focus-visible {
-    outline: 2px solid var(--primary-container);
-    outline-offset: 2px;
-    border-radius: 4px;
-}
+:focus-visible { outline: 2px solid var(--primary-container); outline-offset: 2px; border-radius: 4px; }
 
 /* ══════════════════════════════════════════════
-   ENCABEZADO
+   ANIMACIONES DE ENTRADA
+   ══════════════════════════════════════════════ */
+
+@keyframes fadeSlideUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0; }
+}
+
+/* Cursor titilante que se queda al final del título */
+.cursor-titilar {
+    display: inline-block;
+    width: 3px;
+    height: 0.85em;
+    background: var(--primary-container);
+    margin-left: 4px;
+    vertical-align: middle;
+    border-radius: 2px;
+    animation: blink 1s step-end infinite;
+    box-shadow: 0 0 8px rgba(208,188,255,0.6);
+}
+
+/* Subtítulo del encabezado */
+#encabezado p {
+    opacity: 0;
+    animation: fadeSlideUp 0.6s var(--ease-m3) 2.2s forwards;
+    margin: 0;
+    color: var(--on-surface-variant);
+    font-size: 15px;
+    font-family: 'JetBrains Mono', monospace;
+    letter-spacing: 0.01em;
+}
+
+/* Botones */
+.contenedor-botones {
+    opacity: 0;
+    animation: fadeSlideUp 0.6s var(--ease-m3) 2.5s forwards;
+}
+
+/* Secciones de vista-inicio */
+#seccion-grafico {
+    opacity: 0;
+    animation: fadeSlideUp 0.7s var(--ease-m3) 2.8s forwards;
+}
+
+#seccion-tabla {
+    opacity: 0;
+    animation: fadeSlideUp 0.7s var(--ease-m3) 3.1s forwards;
+}
+
+/* H2 de secciones — aparecen con línea desde la izquierda */
+@keyframes slideInLeft {
+    from { opacity: 0; transform: translateX(-16px); }
+    to   { opacity: 1; transform: translateX(0); }
+}
+
+#vista-inicio h2,
+#vista-plataforma h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--on-surface-variant);
+    margin: 40px 0 16px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#vista-inicio h2::before,
+#vista-plataforma h2::before {
+    content: '';
+    display: inline-block;
+    width: 3px;
+    height: 1em;
+    background: var(--primary-container);
+    border-radius: 2px;
+    box-shadow: 0 0 8px rgba(208,188,255,0.5);
+    flex-shrink: 0;
+}
+
+#vista-inicio h2:first-of-type { margin-top: 0; }
+
+/* ══════════════════════════════════════════════
+   ENCABEZADO — tipografía consola moderna
    ══════════════════════════════════════════════ */
 
 #encabezado { margin-bottom: 8px; }
 
 #encabezado h1 {
-    font-family: 'Epilogue', sans-serif;
-    font-weight: 900;
-    font-size: clamp(28px, 4vw, 42px);
-    letter-spacing: -1px;
-    line-height: 1.1;
-    margin: 0 0 10px;
-    background: linear-gradient(135deg, #ffffff 15%, var(--primary-container) 100%);
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: clamp(28px, 4vw, 46px);
+    letter-spacing: -1.5px;
+    line-height: 1.05;
+    margin: 0 0 12px;
+    background: linear-gradient(135deg, #ffffff 10%, var(--primary-container) 60%, #efb8c8 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-}
-
-#encabezado p {
-    margin: 0;
-    color: var(--on-surface-variant);
-    font-size: 15px;
+    min-height: 1.2em;
+    display: flex;
+    align-items: center;
 }
 
 /* ══════════════════════════════════════════════
-   BOTONES DE PLATAFORMA — efecto botón físico 3D
+   BOTONES DE PLATAFORMA
    ══════════════════════════════════════════════ */
 
 .contenedor-botones {
@@ -156,8 +225,8 @@ a {
     border: 1px solid rgba(255,255,255,0.08);
     color: var(--on-surface-variant);
     padding: 22px 10px;
-    font-family: 'Be Vietnam Pro', sans-serif;
-    font-size: 16px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 15px;
     font-weight: 600;
     border-radius: 20px;
     cursor: pointer;
@@ -173,9 +242,7 @@ a {
 }
 
 .btn-plataforma:hover {
-    background: linear-gradient(to bottom,
-        rgba(208,188,255,0.12),
-        rgba(208,188,255,0.05));
+    background: linear-gradient(to bottom, rgba(208,188,255,0.12), rgba(208,188,255,0.05));
     border-color: rgba(208,188,255,0.3);
     color: var(--primary-container);
     transform: perspective(500px) rotateX(6deg) translateY(-3px);
@@ -204,25 +271,10 @@ a {
 }
 
 /* ══════════════════════════════════════════════
-   TÍTULOS DE SECCIÓN
+   GRÁFICOS — card 3D inclinada
    ══════════════════════════════════════════════ */
 
 #vista-inicio, #vista-plataforma { margin-top: 12px; }
-
-#vista-inicio h2,
-#vista-plataforma h2 {
-    font-family: 'Epilogue', sans-serif;
-    font-weight: 600;
-    font-size: 20px;
-    color: var(--on-surface);
-    margin: 40px 0 16px;
-}
-
-#vista-inicio h2:first-of-type { margin-top: 0; }
-
-/* ══════════════════════════════════════════════
-   GRÁFICOS — card 3D inclinada
-   ══════════════════════════════════════════════ */
 
 #mi-grafico,
 #grafico-plataforma,
@@ -230,9 +282,7 @@ a {
     display: block;
     width: 100% !important;
     max-width: 100%;
-    background: linear-gradient(160deg,
-        rgba(30,29,36,0.7) 0%,
-        rgba(18,17,22,0.6) 100%);
+    background: linear-gradient(160deg, rgba(30,29,36,0.7) 0%, rgba(18,17,22,0.6) 100%);
     backdrop-filter: blur(28px);
     -webkit-backdrop-filter: blur(28px);
     border: 1px solid rgba(255,255,255,0.07);
@@ -247,16 +297,13 @@ a {
     overflow: hidden;
 }
 
-/* Brillo superior (cara frontal del vidrio) */
 #mi-grafico::before,
 #grafico-plataforma::before {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0;
     height: 45%;
-    background: linear-gradient(to bottom,
-        rgba(255,255,255,0.05),
-        transparent);
+    background: linear-gradient(to bottom, rgba(255,255,255,0.05), transparent);
     border-radius: 24px 24px 0 0;
     pointer-events: none;
 }
@@ -268,10 +315,16 @@ a {
 }
 
 /* ══════════════════════════════════════════════
-   TABLA — perspectiva 3D + glass
+   TABLA — SIN perspectiva 3D (corregido)
+   Se mantiene el glass y las sombras pero sin
+   rotateX que deforma al hacer scroll
    ══════════════════════════════════════════════ */
 
-/* Wrapper para poder aplicar perspectiva a la tabla */
+/* Wrapper necesario para border-radius + overflow en tabla */
+#seccion-tabla {
+    position: relative;
+}
+
 #tabla-datos {
     width: 100%;
     border-collapse: collapse;
@@ -286,19 +339,21 @@ a {
     border: 1px solid rgba(255,255,255,0.06);
     border-radius: 22px;
     overflow: hidden;
-    transform: perspective(1000px) rotateX(3deg);
-    transform-origin: top center;
-    box-shadow: var(--shadow-table);
-    transition: transform 0.35s var(--ease-m3), box-shadow 0.35s var(--ease-m3);
+    /* ── Sin rotateX: el efecto empeoraba al hacer scroll ── */
+    box-shadow:
+        0 2px  0  rgba(255,255,255,0.04) inset,
+        0 -4px 0  rgba(0,0,0,0.4) inset,
+        0 20px 50px rgba(0,0,0,0.5),
+        0 0 0  1px rgba(208,188,255,0.04);
+    transition: box-shadow 0.35s var(--ease-m3);
 }
 
 #tabla-datos:hover {
-    transform: perspective(1000px) rotateX(1deg) translateY(-3px);
     box-shadow:
-        0 2px  0  rgba(255,255,255,0.05) inset,
-        0 -6px 0  rgba(0,0,0,0.5) inset,
-        0 36px 80px rgba(0,0,0,0.6),
-        0 0 0  1px rgba(208,188,255,0.07);
+        0 2px  0  rgba(255,255,255,0.06) inset,
+        0 -4px 0  rgba(0,0,0,0.4) inset,
+        0 28px 64px rgba(0,0,0,0.6),
+        0 0 0  1px rgba(208,188,255,0.08);
 }
 
 #tabla-datos th {
@@ -306,9 +361,10 @@ a {
     padding: 14px 18px;
     background: rgba(35,33,42,0.85);
     color: var(--on-surface-variant);
+    font-family: 'Space Grotesk', sans-serif;
     font-weight: 600;
     font-size: 11px;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     border-bottom: 1px solid rgba(73,69,79,0.4);
 }
@@ -320,19 +376,15 @@ a {
 }
 
 #tabla-datos tr:last-child td { border-bottom: none; }
-
-#tabla-datos tr:nth-child(even) td {
-    background: rgba(255,255,255,0.02);
-}
-
-#tabla-datos tr:hover td {
-    background: rgba(208,188,255,0.07);
-}
+#tabla-datos tr:nth-child(even) td { background: rgba(255,255,255,0.02); }
+#tabla-datos tr:hover td { background: rgba(208,188,255,0.07); }
 
 #tabla-datos a {
     color: var(--primary-container);
     text-decoration: none;
     transition: color 0.2s var(--ease-m3);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
 }
 
 #tabla-datos a:hover {
@@ -352,16 +404,14 @@ a {
     background: linear-gradient(to bottom, var(--surface-high), var(--surface));
     border: 1px solid rgba(73,69,79,0.55);
     color: var(--on-surface-variant);
-    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-size: 13px;
     font-weight: 500;
     padding: 9px 20px;
     border-radius: 9999px;
     cursor: pointer;
     margin-bottom: 20px;
-    box-shadow:
-        0 4px 0 rgba(0,0,0,0.4),
-        0 1px 0 rgba(255,255,255,0.05) inset;
+    box-shadow: 0 4px 0 rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.05) inset;
     transform: perspective(400px) rotateX(4deg);
     transition: all 0.2s var(--ease-m3);
 }
@@ -369,14 +419,9 @@ a {
 #vista-plataforma > button:hover {
     border-color: rgba(208,188,255,0.35);
     color: var(--primary-container);
-    background: linear-gradient(to bottom,
-        rgba(208,188,255,0.1),
-        rgba(208,188,255,0.04));
+    background: linear-gradient(to bottom, rgba(208,188,255,0.1), rgba(208,188,255,0.04));
     transform: perspective(400px) rotateX(4deg) translateY(-2px);
-    box-shadow:
-        0 6px 0 rgba(0,0,0,0.4),
-        0 1px 0 rgba(255,255,255,0.07) inset,
-        0 8px 20px rgba(208,188,255,0.1);
+    box-shadow: 0 6px 0 rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.07) inset, 0 8px 20px rgba(208,188,255,0.1);
 }
 
 #vista-plataforma > button:active {
@@ -397,12 +442,12 @@ a {
     font-weight: 600;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     box-shadow: 0 2px 8px rgba(208,188,255,0.1);
 }
 
 /* ══════════════════════════════════════════════
-   MODAL — glass dialog 3D
+   MODAL
    ══════════════════════════════════════════════ */
 
 #modal-overlay {
@@ -420,9 +465,7 @@ a {
 }
 
 #modal-contenido {
-    background: linear-gradient(145deg,
-        rgba(26,24,32,0.95) 0%,
-        rgba(14,13,18,0.92) 100%);
+    background: linear-gradient(145deg, rgba(26,24,32,0.95) 0%, rgba(14,13,18,0.92) 100%);
     backdrop-filter: blur(36px);
     -webkit-backdrop-filter: blur(36px);
     border: 1px solid rgba(255,255,255,0.08);
@@ -435,25 +478,21 @@ a {
     padding: 30px;
     box-shadow: var(--shadow-modal);
     position: relative;
-    overflow: hidden;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
 
-/* Cara superior del cristal */
 #modal-contenido::before {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0;
     height: 40%;
-    background: linear-gradient(to bottom,
-        rgba(255,255,255,0.045),
-        transparent);
+    background: linear-gradient(to bottom, rgba(255,255,255,0.045), transparent);
     border-radius: 28px 28px 0 0;
     pointer-events: none;
 }
 
 #modal-titulo {
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-weight: 700;
     color: var(--on-surface);
     font-size: 22px;
@@ -475,6 +514,7 @@ a {
     text-transform: uppercase;
     margin-bottom: 20px;
     position: relative;
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 #modal-resumen {
@@ -486,12 +526,10 @@ a {
 }
 
 #btn-cerrar-modal {
-    background: linear-gradient(to bottom,
-        rgba(208,188,255,0.12),
-        rgba(208,188,255,0.06));
+    background: linear-gradient(to bottom, rgba(208,188,255,0.12), rgba(208,188,255,0.06));
     border: 1px solid rgba(208,188,255,0.3);
     color: var(--primary-container);
-    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-size: 13px;
     font-weight: 500;
     padding: 8px 18px;
@@ -499,23 +537,16 @@ a {
     cursor: pointer;
     float: right;
     position: relative;
-    box-shadow:
-        0 4px 0 rgba(0,0,0,0.4),
-        0 1px 0 rgba(255,255,255,0.07) inset;
+    box-shadow: 0 4px 0 rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.07) inset;
     transform: perspective(300px) rotateX(5deg);
     transition: all 0.2s var(--ease-m3);
 }
 
 #btn-cerrar-modal:hover {
-    background: linear-gradient(to bottom,
-        rgba(208,188,255,0.22),
-        rgba(208,188,255,0.12));
+    background: linear-gradient(to bottom, rgba(208,188,255,0.22), rgba(208,188,255,0.12));
     border-color: var(--primary-container);
     transform: perspective(300px) rotateX(5deg) translateY(-2px);
-    box-shadow:
-        0 6px 0 rgba(0,0,0,0.4),
-        0 1px 0 rgba(255,255,255,0.09) inset,
-        0 8px 20px rgba(208,188,255,0.15);
+    box-shadow: 0 6px 0 rgba(0,0,0,0.4), 0 1px 0 rgba(255,255,255,0.09) inset, 0 8px 20px rgba(208,188,255,0.15);
 }
 
 #btn-cerrar-modal:active {
@@ -541,27 +572,9 @@ a {
 
 @media (max-width: 640px) {
     body { padding: 32px 18px 60px; }
-
-    .contenedor-botones {
-        flex-direction: column;
-        max-width: 100%;
-    }
-
+    .contenedor-botones { flex-direction: column; max-width: 100%; }
     .btn-plataforma { min-width: 0; }
-
-    #modal-contenido {
-        padding: 22px;
-        border-radius: 22px;
-    }
-
-    #tabla-datos th,
-    #tabla-datos td {
-        padding: 10px 12px;
-        font-size: 13px;
-    }
-
-    #mi-grafico,
-    #grafico-plataforma {
-        padding: 18px;
-    }
+    #modal-contenido { padding: 22px; border-radius: 22px; }
+    #tabla-datos th, #tabla-datos td { padding: 10px 12px; font-size: 13px; }
+    #mi-grafico, #grafico-plataforma { padding: 18px; }
 }

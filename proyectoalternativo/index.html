@@ -4,32 +4,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Monitor de Desinformación</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
   <!-- ENCABEZADO -->
   <div id="encabezado">
-    <h1>Monitor de Desinformación</h1>
+    <h1><span id="texto-titulo"></span><span class="cursor-titilar" id="cursor"></span></h1>
     <p>Análisis de comportamiento inauténtico en redes sociales</p>
   </div>
 
-  <!-- VISTA GENERAL (inicio) -->
+  <!-- VISTA GENERAL -->
   <div id="vista-inicio">
 
-    <!-- BOTONES -->
     <div class="contenedor-botones">
       <button class="btn-plataforma" onclick="cambiarPlataforma('bluesky')">Bluesky</button>
       <button class="btn-plataforma" onclick="cambiarPlataforma('fuente2')">Hacker News</button>
     </div>
 
-    <!-- GRÁFICO GENERAL -->
     <div id="seccion-grafico">
-      <h2>Top 5 estafas detectadas — todas las plataformas</h2>
+      <h2>Top estafas detectadas — todas las plataformas</h2>
       <canvas id="mi-grafico"></canvas>
     </div>
 
-    <!-- TABLA -->
     <div id="seccion-tabla">
       <h2>Datos recolectados</h2>
       <table id="tabla-datos">
@@ -61,11 +61,10 @@
       <h2 id="modal-titulo">Título</h2>
       <p id="modal-plataforma">Plataforma</p>
       <p id="modal-resumen">Resumen aquí...</p>
-      <canvas id="modal-grafico"></canvas>
     </div>
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
   <script src="script.js"></script>
-
 </body>
+</html>
