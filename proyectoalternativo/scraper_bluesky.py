@@ -41,31 +41,38 @@ if __name__ == "__main__":
     client = conectar("juan4-04.bsky.social", "ry7q-2ym3-pbz6-yehy")
 
     categorias = {
-    "Giveaway Crypto": [
+    "Criptomonedas": [
         "send 1 BTC get 2 BTC",
         "double your bitcoin",
         "free usdt giveaway",
-        "crypto giveaway claim"
+        "guaranteed returns crypto"
     ],
-    "Inversión Fraudulenta": [
-        "guaranteed returns crypto",
+    "Phishing": [
+        "verify your account click",
+        "your account suspended link",
+        "confirm your identity click here",
+        "unusual activity login verify"
+    ],
+    "Inversiones": [
         "DM me for investment",
         "passive income 100% profit",
-        "daily profit trading signal"
+        "daily profit trading signal",
+        "guaranteed returns investment"
     ],
-    "Airdrop Falso": [
-        "claim your airdrop",
-        "verify wallet airdrop",
-        "connect wallet claim tokens",
-        "exclusive token presale airdrop"
+    "Sorteos falsos": [
+        "you have been selected winner",
+        "claim your prize now",
+        "congratulations winner claim",
+        "free giveaway winner selected"
     ],
-    "Pump & Dump": [
-        "next 100x coin",
-        "buy now before listing",
-        "presale live crypto",
-        "moon token launch"
+    "Suplantación": [
+        "official support team verify account",
+        "we are official team DM",
+        "impersonation deepfake AI",
+        "verify account official support"
     ]
     }
+
     todos_los_datos = []
 
     for categoria, terminos in categorias.items():
