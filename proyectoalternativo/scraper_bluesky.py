@@ -41,18 +41,37 @@ if __name__ == "__main__":
     client = conectar("juan4-04.bsky.social", "ry7q-2ym3-pbz6-yehy")
 
     categorias = {
-         "Criptomonedas": "crypto scam AI",
-        "Phishing": "phishing LLM attack",
-        "Inversiones": "investment fraud deepfake",
-        "Sorteos falsos": "giveaway scam bot",
-        "Suplantación": "impersonation deepfake AI"
+    "Giveaway Crypto": [
+        "send 1 BTC get 2 BTC",
+        "double your bitcoin",
+        "free usdt giveaway",
+        "crypto giveaway claim"
+    ],
+    "Inversión Fraudulenta": [
+        "guaranteed returns crypto",
+        "DM me for investment",
+        "passive income 100% profit",
+        "daily profit trading signal"
+    ],
+    "Airdrop Falso": [
+        "claim your airdrop",
+        "verify wallet airdrop",
+        "connect wallet claim tokens",
+        "exclusive token presale airdrop"
+    ],
+    "Pump & Dump": [
+        "next 100x coin",
+        "buy now before listing",
+        "presale live crypto",
+        "moon token launch"
+    ]
     }
-
     todos_los_datos = []
 
-    for categoria, termino in categorias.items():
-        resultados = buscar_categoria(client, categoria, termino, limite=100)
-        todos_los_datos.extend(resultados)
+    for categoria, terminos in categorias.items():
+        for termino in terminos:
+            resultados = buscar_categoria(client, categoria, termino, limite=100)
+            todos_los_datos.extend(resultados)
 
     print(f"\nTotal de posts extraídos: {len(todos_los_datos)}")
 
