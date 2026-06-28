@@ -2,17 +2,17 @@
   "bluesky": {
     "etiquetas": [
       "Criptomonedas",
-      "Phishing",
+      "Suplantación",
       "Inversiones",
-      "Sorteos falsos",
-      "Suplantación"
+      "Phishing",
+      "Sorteos falsos"
     ],
     "valores": [
-      80,
-      67,
-      5,
-      4,
-      3
+      97,
+      95,
+      27,
+      18,
+      18
     ]
   },
   "fuente2": {
@@ -29,2337 +29,2991 @@
       50,
       50,
       50,
-      29
+      42
     ]
   },
   "tabla": [
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/collinsdoland.bsky.social/post/3mnoiqqxc5u2o"
+      "url": "https://bsky.app/profile/ejoe.bsky.social/post/3mpd74xxx6c2t"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/newsanalysis.com/post/3mn5ohkspga2p"
+      "url": "https://bsky.app/profile/tabbeigh.bsky.social/post/3mpbx3xbzfs2q"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mn3t4jdwsw2s"
+      "url": "https://bsky.app/profile/trinest.bsky.social/post/3mpbbhygv222i"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/dealguardianapp.bsky.social/post/3mn3hcdkal62s"
+      "url": "https://bsky.app/profile/earthjournalism.bsky.social/post/3mpba5fqhui2n"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/handle.invalid/post/3mn266s7jkd2f"
+      "url": "https://bsky.app/profile/grissallia.bsky.social/post/3mpazfqgbl22g"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3mp7ubgixjt2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/iphoneincanada.ca/post/3mp7ji2i4by2w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3mp72bob2xe2l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/dave1agar.bsky.social/post/3mp6u2o3rfk2z"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/peterllewellyn.bsky.social/post/3mp6p3remks27"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cp24-mirror.bsky.social/post/3mp6os5egbg27"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3mp6ojwbflz2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/nitrox72.xyz/post/3mp3o2ffxsc2n"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/mousebitelabs.bsky.social/post/3mp3ajdrxs22f"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/brianm822.bsky.social/post/3moyplq3ock25"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/grislyboar.bsky.social/post/3moynqcmzjs2n"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/drgeophysics.bsky.social/post/3moxe464zkc26"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/big-data.guru/post/3movhj3eysc2h"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/maxkennerly.bsky.social/post/3mouuia7agk2m"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/mrfl14.bsky.social/post/3mot5ccv5ek2i"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/gambloide.omg.lol/post/3mos2maosvk2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/radiogodzilla.bsky.social/post/3moq3hemndk2w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/janeezee01.bsky.social/post/3mopruj6osc2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/berniebro69.bsky.social/post/3moohsqlghc2e"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cara.city/post/3moljrfah4c2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/gallax.bsky.social/post/3moklapd4ek26"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/thecakeisnotalie.bsky.social/post/3mok666e3y22w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/matthewhughes.bsky.social/post/3moj2g3ryas24"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/jeefdavis.bsky.social/post/3moidlg4ecs2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/monkeyman85.bsky.social/post/3mogtehknds2m"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/wildebees.bsky.social/post/3modayj7bzs2a"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/madanrd.bsky.social/post/3mobwlpozuw2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/crypto-fan.bsky.social/post/3mo4pgbor7j2s"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/mongoose61.bsky.social/post/3mo45ptz5e22t"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mnykcwrl262d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/razenhashikado.bsky.social/post/3mnxxhbwqgs2i"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/adigitalcanary.bsky.social/post/3mnx4rvac3k2p"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/district.blue/post/3mnukolmna22u"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/pixiecirce.bsky.social/post/3mntjuvd2gk2g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/d9sinc.bsky.social/post/3mntfr5b3ed2w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mnsazu7pgy2k"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/galactictides.bsky.social/post/3mns3wnm7zs2h"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/radicalizer.bsky.social/post/3mnq3f4r36k22"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/lousycanuck.bsky.social/post/3mnpt3pmrhc2p"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/2frogline69.bsky.social/post/3mnksjzm4sk2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/smtuffy.bsky.social/post/3mningn2ej22k"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/wiggwigg.bsky.social/post/3mnihlcol7n2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/phil-stone.bsky.social/post/3mnhxjyrux22m"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/rwatimes.bsky.social/post/3mnhw4f6j5q2t"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/hulkling-she-her.bsky.social/post/3mnfvuw4xs22c"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/simsarah.bsky.social/post/3mnfavy53gc2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/amberlink.bsky.social/post/3mne42xctvk2w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/molossus-spondee.bsky.social/post/3mncvhlp3wc2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/calizaybak.bsky.social/post/3mncu3ackvc2v"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/shoob-2000.bsky.social/post/3mn6n4cid4s2t"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/oddnco.bsky.social/post/3mn6dtor5qc2h"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ai-portal-post.bsky.social/post/3mn65wt7ust2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/druce.ai/post/3mn637nnt422j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/dsanders77.bsky.social/post/3mn5nza2iqc2k"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/crypto-fan.bsky.social/post/3mn5fuaadoz2f"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/klimchuk.bsky.social/post/3mn4f7gux5s24"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/lanewinree.com/post/3mn46wz67j22e"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/pcmag.com/post/3mn3n73wo5w2v"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/handle.invalid/post/3mn3ahkizpl2z"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cryptovka.com/post/3mn32fswf5m23"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Criptomonedas",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/theresisty.bsky.social/post/3mmzvaehh622h"
+    },
+    {
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
       "url": "https://bsky.app/profile/pushalt88.bsky.social/post/3mmzl3meagc2v"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptovka-news.bsky.social/post/3mm763m6pws2i"
+      "url": "https://bsky.app/profile/thesnarkygent.bsky.social/post/3mmz26ojyks27"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/dnsresearch.bsky.social/post/3mm3apjvbx322"
+      "url": "https://bsky.app/profile/blockchainreport.bsky.social/post/3mmyype43fm2p"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/dnsresearch.bsky.social/post/3mlpwk7x57n23"
+      "url": "https://bsky.app/profile/cloudsecure1.bsky.social/post/3mmxafgwkcc2c"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/dnsresearch.bsky.social/post/3mlol2j5fkc2o"
+      "url": "https://bsky.app/profile/thatryn.bsky.social/post/3mmx4jex4lc2n"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/wrestlegazz.bsky.social/post/3mlnxzy6n5s25"
+      "url": "https://bsky.app/profile/dragonogon.bsky.social/post/3mmx4crq4ik2p"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/handle.invalid/post/3mkxnhbh6sx2x"
+      "url": "https://bsky.app/profile/chuff.bsky.social/post/3mmwlqauju22p"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/worldsnap360.bsky.social/post/3mk7nka3ssc2o"
+      "url": "https://bsky.app/profile/eddgosbender.bsky.social/post/3mmvbot6zvc24"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lartigue.bsky.social/post/3mk7lir26rc2k"
+      "url": "https://bsky.app/profile/ladyoutside.bsky.social/post/3mmuqkqqqqs2p"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3mjtm6hwjpn2b"
+      "url": "https://bsky.app/profile/touhounigga.is-extremely.gay/post/3mms65trtes2w"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mj7lkbolpd25"
+      "url": "https://bsky.app/profile/metacurity.com/post/3mmr4myydzk2n"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3miakep4yse2n"
+      "url": "https://bsky.app/profile/neilak20.bsky.social/post/3mmpbl57ydk2a"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mi6s5n43mc2m"
+      "url": "https://bsky.app/profile/thestacks.ca/post/3mmovxfdzdk2j"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mi45qpgugs2x"
+      "url": "https://bsky.app/profile/segfault.deadpost.ai/post/3mmoa222gnv2v"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/financeideas.bsky.social/post/3mi2kbp72gc2y"
+      "url": "https://bsky.app/profile/breakify.bsky.social/post/3mml4ldxblk2y"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mi2fzcfrln2a"
+      "url": "https://bsky.app/profile/2frogline69.bsky.social/post/3mmk7oyy4h22h"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/nexuscapitalr.bsky.social/post/3mhyzebhf622w"
+      "url": "https://bsky.app/profile/anchvie.bsky.social/post/3mmj3iapm2s26"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhylnogcv62z"
+      "url": "https://bsky.app/profile/fibonaccieu.bsky.social/post/3mmiybmil2c2r"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptofox.news/post/3mhv3xegl3q2a"
+      "url": "https://bsky.app/profile/juhman.bsky.social/post/3mmgzjw4zmc2u"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/blockchainreport.bsky.social/post/3mhv3v5tzcb2b"
+      "url": "https://bsky.app/profile/jmaq.bsky.social/post/3mmf6i5xaw223"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhulr25nsr2i"
+      "url": "https://bsky.app/profile/jacerealstoryy.bsky.social/post/3mmf2e7uqpk2h"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhs5jcb6rm2f"
+      "url": "https://bsky.app/profile/sigma-world.bsky.social/post/3mmb7z7fshs2b"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhlbr4zett2g"
+      "url": "https://bsky.app/profile/cevian.bsky.social/post/3mma76olz3s2w"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhkr467gqn2s"
+      "url": "https://bsky.app/profile/guyleonard.eurosky.social/post/3mm7ngyt3bs2y"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3mhkk3paoz42l"
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3mm7i6ajeoeg2"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhk2j2burl2j"
+      "url": "https://bsky.app/profile/gamerstavernshow.com/post/3mm7cdgiqws2b"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhgrxemepy22"
+      "url": "https://bsky.app/profile/zenarchie.bsky.social/post/3mm4izicrzk25"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhfpzsmhsq2i"
+      "url": "https://bsky.app/profile/baro.bsky.social/post/3mm3avdnaks2v"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhd6au5vbd2z"
+      "url": "https://bsky.app/profile/bblanco718.bsky.social/post/3mm2wf73ybk2j"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhcwoxs4532n"
+      "url": "https://bsky.app/profile/kristalerista.bsky.social/post/3mlxwsp4yrc2b"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhcg2wzgqu2w"
+      "url": "https://bsky.app/profile/saveamerica999.bsky.social/post/3mlwozyokzk2l"
     },
     {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhbpyrf2bc2g"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mhaztdo2wx2q"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/lary89.bsky.social/post/3mh4vqperup2e"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/blockchainreport.bsky.social/post/3mgy7topq4j2o"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3mgy762xg2x2z"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/icarglobal.bsky.social/post/3mgul6iy4ns2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/dubaicryptolawyer.bsky.social/post/3mfwbnlsyo22f"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/crypto.at.thenote.app/post/3mftxl63puk23"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cyberfraudhub.bsky.social/post/3mdxondh3v222"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/investabot.mineabot.xyz/post/3mdsxz5cixi2w"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/mountainwolfpay.bsky.social/post/3mchcdhn4t22t"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptozone-x.bsky.social/post/3mchagzzfqx2d"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/reddest-hat.bsky.social/post/3mb5dn4gdok2e"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3mb3m66reqv2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptozone-x.bsky.social/post/3maux4mcglg2d"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/blockchainreport.bsky.social/post/3madn7rvi5u24"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptozone-x.bsky.social/post/3m7pa4vsh722p"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/crypto.at.thenote.app/post/3m7kxoffh222s"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/crypto.at.thenote.app/post/3m7kj4qe23s2s"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/parallax2112.bsky.social/post/3m5wtyxdai22f"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/masteroffinance.bsky.social/post/3m5miookwss2w"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/crypto.at.thenote.app/post/3m5buidnb4k25"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/nencmediagroup.com/post/3m5aeeylpvj23"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/blockchainreport.bsky.social/post/3m57a2amgzr2q"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3m577jnvoid2v"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3m3csrxhbcm2z"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3lyrg2gnpat22"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3lyfhmmvrf22q"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/holgers47.bsky.social/post/3ly2nuuy32s2v"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/blockchainreport.bsky.social/post/3lxmcljc2wo2k"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/adriannoval.bsky.social/post/3lwwrp6xuyk2a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptovka-news.bsky.social/post/3lwt5ivlyad2o"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/tbcnews.bsky.social/post/3lwh7x2dmzs22"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptodailyfix.bsky.social/post/3lvwkjt6jj22a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/bryanking71.bsky.social/post/3lvilhcvy2v22"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/onshi.bsky.social/post/3lvgio5uct22z"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/garyhawkins.net/post/3lv6hijxit22d"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3lv5enomh5424"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptoinvestor-dh.bsky.social/post/3luhzgolcsc2o"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/zonecrypto.bsky.social/post/3lsoy4r7wod2d"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/nobs146.bsky.social/post/3lqs3xuytfc2b"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/cryptonews-poster.bsky.social/post/3lqe226jw2v2k"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/bebopcash.bsky.social/post/3lox3jop4rr2r"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Criptomonedas",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/martinmcgrath.bsky.social/post/3lm7o7us2fs22"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/fgffg4444.bsky.social/post/3momps4odus2z"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momowkzs4k2s"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momoogvrxc2s"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momo273mps2t"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnuosk322p"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnscfnqk2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnpdmddk2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnmdds6s2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnigoe3c2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momngepk6k2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momnd24sms2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3momn6ub7gk2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/artemka3334.bsky.social/post/3mommqoc6722q"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/aminus.bsky.social/post/3mngoze2xwk22"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/idoobbbz.bsky.social/post/3mng3shutz22u"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/bletherdaft.bsky.social/post/3mnfxzr5u6k2g"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/feelgoodfairy.bsky.social/post/3mnfmqmks3c2b"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/mudfire4.cryptid.expert/post/3ml7n4mrv7c2v"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/epsteinweb.bsky.social/post/3mkxywc2nng2c"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/bit101.mstdn.social.ap.brid.gy/post/3mfmf4gpf7zq2"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ottocr.at/post/3mfi2ljbmws2r"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/isthisshiton.bsky.social/post/3mayefcdhvk2v"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/tkerhughes.bsky.social/post/3m7kxtbz52s2b"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/strawberryraccoon.bsky.social/post/3m5jin27jn22c"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/thekoopalingranger.bsky.social/post/3m5j7van3ps2b"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/halosthedog.bsky.social/post/3m5iwguwgw22b"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/toyfu332.bsky.social/post/3m5iw2uwxp22y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ducugavril.nafoforum.org/post/3m5iuwui7lc2s"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ilginilla.bsky.social/post/3m5ilw6kns22m"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/klogoldman.bsky.social/post/3m5ih6c3lps2a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/worfrozhenko.bsky.social/post/3m5hfzzxgh22h"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/rileycore.bsky.social/post/3m5h2ycbaac2a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/robert.hill.cx/post/3m5gwjdf5gk2j"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ehtretamano.bsky.social/post/3m5gu4ot3nk22"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ezetheigwe.blacksky.app/post/3m5gt6ihpsc2v"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/yoshitaka77.bsky.social/post/3m5gqmvw5nk2n"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/doggirldotfaggot.bsky.social/post/3m5ffqaf7hk2b"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/sumirenolive2d.bsky.social/post/3m5fbdztkx22a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/shadowskygrygon.bsky.social/post/3m55xoe33vk2m"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/teledoor24.bsky.social/post/3m55pprkiqk2d"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ruthmcmonagle.bsky.social/post/3m55bey7s7s2a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/malikamoonheart.bsky.social/post/3m554xzdvfs2y"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/ace-of-dragons.bsky.social/post/3m54wcahurc2x"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/loukas.bsky.social/post/3m54gwxqfjc2a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/drawfriend.bsky.social/post/3m54f56efqs25"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/izagar.bsky.social/post/3m53p2mtsc22n"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/blandbeard.bsky.social/post/3m53oyunyyk2e"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/kitbeary.bsky.social/post/3m53oeci2l22a"
-    },
-    {
-      "fecha": "2026-06-27",
-      "estafa": "Phishing",
-      "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/rebecca.is.vgay.fyi/post/3m53djv3ay42n"
-    },
-    {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/hulijingz.bsky.social/post/3m52xo5uijs26"
+      "url": "https://bsky.app/profile/sekoia.com/post/3mixs2fwjmo2g"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/athensgrease.bsky.social/post/3m52r2rs6es2m"
+      "url": "https://bsky.app/profile/yona.moe/post/3mdssjjlajc2o"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/kompaktkiste.de/post/3m3n2udv5gs2h"
+      "url": "https://bsky.app/profile/allsafeus.bsky.social/post/3md24cprzfj2p"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/bootibei.bsky.social/post/3lzymnvwnmc2g"
+      "url": "https://bsky.app/profile/deepseek.activitypub.awakari.com.ap.brid.gy/post/3mcz75irsl4y2"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/projectlegacyofx.bsky.social/post/3lylinb7axc2m"
+      "url": "https://bsky.app/profile/chemaalonso.com/post/3mcw5gyq4zk2u"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/rayhindle.mastodon.social.ap.brid.gy/post/3lxovxzy2ock2"
+      "url": "https://bsky.app/profile/globalcmd.bsky.social/post/3m5josmzmfz2s"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/unearaigneeauplafond.fr/post/3lvt6pvuvl22b"
+      "url": "https://bsky.app/profile/undercode.bsky.social/post/3m2ahssjfrh2w"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/carusb.mastodon.scot.ap.brid.gy/post/3luevv37eu7j2"
+      "url": "https://bsky.app/profile/hacker.at.thenote.app/post/3m246uhgi522a"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/splainer.bsky.social/post/3lskbcnznd22b"
+      "url": "https://bsky.app/profile/hacker.at.thenote.app/post/3lzqshd4fq225"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/pluperfectidiot.bsky.social/post/3lrngxsvsuc2k"
+      "url": "https://bsky.app/profile/kitafox.bsky.social/post/3lzqctplxjy2p"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/painiac.bsky.social/post/3loqeqkpvvk2u"
+      "url": "https://bsky.app/profile/0x3mi.bsky.social/post/3lwt54ggdnk23"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/robertcfried.bsky.social/post/3loia2pikg22x"
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3luashi5iur72"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/emnreviews.bsky.social/post/3ln2wd52bns22"
+      "url": "https://bsky.app/profile/redmondit.bsky.social/post/3lu6dghds2c2h"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/vanquishedmaxim.bsky.social/post/3lgh4frvpbs2k"
+      "url": "https://bsky.app/profile/chemaalonso.com/post/3lu2p5wk4z22y"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/shebecoding.bsky.social/post/3lc47okq5es26"
+      "url": "https://bsky.app/profile/cscr-bot.bsky.social/post/3lq4z5m53id23"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/thechellebelle.bsky.social/post/3lb32oqe3j72x"
+      "url": "https://bsky.app/profile/deep-in-depth.bsky.social/post/3lkks3v42a423"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/chaoscate.eurosky.social/post/3lasqzovkmc2x"
+      "url": "https://bsky.app/profile/kitafox.bsky.social/post/3lkepn5xi5h2d"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/zisshit.com/post/3kwhkhhhqfn2t"
+      "url": "https://bsky.app/profile/dinfontay.com/post/3ldnwfib7vc22"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/theinstituteoftrading.com/post/3mh66rnuxef2d"
+      "url": "https://bsky.app/profile/canada-news.bsky.social/post/3mp6pcbpujm2k"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/bruceund.bsky.social/post/3lqasft2gr22f"
+      "url": "https://bsky.app/profile/rankednews.bsky.social/post/3mnmm5vi2rl2h"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/tomihomes.bsky.social/post/3lkntd5sjrc2b"
+      "url": "https://bsky.app/profile/securityelites.bsky.social/post/3mkzgww7zfn2j"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/saboire.bsky.social/post/3lhdl263z2c2h"
+      "url": "https://bsky.app/profile/coinroop.bsky.social/post/3mk7prxfx2a2x"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/braindrill.lol/post/3lcgl35quws2n"
+      "url": "https://bsky.app/profile/uddipta.bsky.social/post/3mi243zy6ik2i"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/westerneuropean.bsky.social/post/3me6ptv7nas2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/richbycoin.bsky.social/post/3mdr7jj3g3r24"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/magicman32.bsky.social/post/3md2ssmt3lt2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/magicman32.bsky.social/post/3mcvl654q7p22"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3mcug2zp3um26"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/monikawalker.bsky.social/post/3mb3ebv6klp2c"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/newsnexttech.bsky.social/post/3mb3eb7u5yo2n"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3m7lq6okufob2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3m7llbkonp5a2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3m7lhuo44t5o2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/crypto.at.thenote.app/post/3m7dechwtws2s"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/mediatechdemocracy.bsky.social/post/3m772656mqk2n"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/scrubfire84.bsky.social/post/3m75v3hhj4t25"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/sigma-world.bsky.social/post/3lzqgbt2u6k25"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3lrxe4crpxi2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/axsharma.com/post/3lruzisf7u22t"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/bleepingcomputer.com/post/3lrsxfbv3vj2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/techwordnews.bsky.social/post/3lqznbzka7z2k"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3lpix6lyiwb2z"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3lfm4fiflwg26"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/entgrcsolutions.bsky.social/post/3lcjasfoo2k2e"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Inversiones",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/byteseu.bsky.social/post/3ku5ghtoecs27"
+    },
+    {
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/badposter.lol/post/3m6ut3evey22w"
+      "url": "https://bsky.app/profile/dckiqred.bsky.social/post/3mpapzwhsk22l"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/danicadillion.bsky.social/post/3ltecfoxydc26"
+      "url": "https://bsky.app/profile/majorarlene.net/post/3mcstmkjluc2e"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/danicadillion.bsky.social/post/3ltecf22gkc26"
+      "url": "https://bsky.app/profile/rebelwoapplause.bsky.social/post/3m63ibp74g22i"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/strepsirrhini.bsky.social/post/3k7wvbthpcm2m"
+      "url": "https://bsky.app/profile/troyb64.bsky.social/post/3m2kq7gpnqs2j"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/jayapal.house.gov/post/3lomaqh64322q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ekkosangen.bsky.social/post/3lmggrih7us2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/darkclaw643.bsky.social/post/3lgb3iyjiek2p"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/raestar.bsky.social/post/3lg44xmlr3226"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/thereeljon.cryptoanarchy.network/post/3lfpyydtgpd2l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/numb.comfortab.ly/post/3lehv5whpkk2h"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/swaeere.bsky.social/post/3le3zxyzsfk2l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/minesae.bsky.social/post/3ldmqsm7udc2u"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/jessicastreet.bsky.social/post/3lcog75stus2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/patyk.lol/post/3lcizpfmaxs2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/whistlinpast.bsky.social/post/3lbwtsqxp4k22"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/retroblastpod.com/post/3lbuj2yvbpk2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/norrynator.bsky.social/post/3lbkyn4f3el2o"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Sorteos falsos",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/warhawkfaqs.bsky.social/post/3kc7r6c4wy62n"
+    },
+    {
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/thistlekatt.bsky.social/post/3m5gukgdec223"
+      "url": "https://bsky.app/profile/balint.house.gov/post/3mnwsodl6ms2b"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/joycereynoldsward.bsky.social/post/3m2uabrd7mc2u"
+      "url": "https://bsky.app/profile/attorneysmedia.bsky.social/post/3mnusa7zpyq2o"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/mmason4750.bsky.social/post/3lsekmycuwt2l"
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3mnrzq7apdf22"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ainewsagent.bsky.social/post/3mnlfzdixbd2q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/techscoopcanada.bsky.social/post/3mnjipeq2nc2h"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnhtrz7nvvh2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnhqhfuutwd2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cybersecboardrm.bsky.social/post/3mnhninv3sc2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/socialmedialab.ca/post/3mng7xlq3vk2t"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/aishamalik.bsky.social/post/3mng6jkdlyz2t"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ai-news.at.thenote.app/post/3mnftxta3i22h"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/thedailytechfeed.com/post/3mnflwaeex325"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/newsanalysis.com/post/3mnfjqx6a4o2u"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/thenewoil.org/post/3mnfi5ip57mp2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/alternativeto.net/post/3mnfet5l3xx2q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/dimitripletschette.bsky.social/post/3mnfcehuvqw2m"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/thedailytechfeed.com/post/3mnfbmlc73s2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/buchikuma.bsky.social/post/3mnf5zlxggt2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnexxx77pzz2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deeprun-news.bsky.social/post/3mneorkq65t26"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/xceptn.bsky.social/post/3mneiv353kx2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ainieuwtjes.bsky.social/post/3mne6ow7vgj2a"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/abijita.bsky.social/post/3mne65xtqy625"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/sagalinked.bsky.social/post/3mndx64eb7u2z"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ai-bridge-tech.bsky.social/post/3mndq6w3dfl2m"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ferl67.bsky.social/post/3mndo2it4lc2g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/aibasenig.bsky.social/post/3mndkjhlh6n2s"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deadstack.net/post/3mndk4hjthb24"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ie-news.bsky.social/post/3mndhmcuj2u2c"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/techpresso.bsky.social/post/3mndhl5lt2724"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/k3live.bsky.social/post/3mndgzwqa6g24"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/eurotrends24.bsky.social/post/3mndgzv6mue23"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/pricepertoken.bsky.social/post/3mndcci4ig22l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ronews.bsky.social/post/3mndbtigi6l2i"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/news.karthihegde.dev/post/3mnd6osy7os2g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/4sighthealth.bsky.social/post/3mmtl4vnmk72g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/verifywise.bsky.social/post/3mmbgtmlsxj2q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/dnsresearch.bsky.social/post/3mm4h6xra4m2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cna-poster.bsky.social/post/3mlt3merf5h2l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cna-poster.bsky.social/post/3mlt27ngy4b2i"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/victoriaoh.bsky.social/post/3mlmbscsmyk23"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/lazarusholic.bsky.social/post/3mllezjjv4z23"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/r-blueteamsec.bsky.social/post/3mljlps242u2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3mla77kjxh6p2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3mkpwewgejb2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cjmagowan.bsky.social/post/3mjg7refmcr2a"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/negativepid.bsky.social/post/3mj3sf4doo426"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/blackcloakcyber.bsky.social/post/3miyx2schsy2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/negativepid.bsky.social/post/3migp7y6mmc2w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/citizenptnewsmd.bsky.social/post/3migef4abbc27"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ki-news.bsky.social/post/3mi3zl3zf3j2q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/shivanichavan.bsky.social/post/3mhs5he7jhk2r"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/shivanichavan.bsky.social/post/3mhrtq2xwt22r"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/technadu.com/post/3mgtxc65epk2g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/epsteinweb.bsky.social/post/3mgdjhdgwqb2v"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/infosecbriefly.bsky.social/post/3mfiw7tsr4h2e"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/rhutabhayga.bsky.social/post/3meyxejl5nc2o"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/bishopfox.bsky.social/post/3meyx6mzqck2b"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/incalabs.bsky.social/post/3meoevgwgp22q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/druce.ai/post/3meja2pah722j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/factcheck.afp.com/post/3mebvo4scq42v"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/druce.ai/post/3me6xrz67d22l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cryptotimesnews.bsky.social/post/3mdzqjpviye2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/pwrdbyrog.bsky.social/post/3mcs7t6xvas23"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/technadu.com/post/3mcm2oiirlk2e"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/researchireland.ie/post/3mckixrdrkk2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/gate15.bsky.social/post/3mchywssf4c2i"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/bodyanddata.bsky.social/post/3mcejep4pps2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercodenews.bsky.social/post/3mbzlfjxggb2w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cathyoliver.bsky.social/post/3mbhh232gn22o"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/heathermoandco.bsky.social/post/3ma2hqw37k22l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cyberinsurancenews.bsky.social/post/3m7scg26rd224"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/cyberinsurancenews.bsky.social/post/3m7nfqprlss2y"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ddgutierrez.bsky.social/post/3m76rfqkstc2q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercodenews.bsky.social/post/3m6yv3axjlg2g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ongoingnow.com/post/3m6xoxfj54x2v"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/aistorynews.bsky.social/post/3m6alrpapp32w"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercode.bsky.social/post/3m5qbmj4mjz2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercode.bsky.social/post/3m4z3pmusjo23"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/magicman32.bsky.social/post/3m4che42jdw2k"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/phishingnews.bsky.social/post/3m3vaciebtz2p"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/180vault.bsky.social/post/3m3nbkur6as2d"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy/post/3m3clcshvkwl2"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/aspirelegal.bsky.social/post/3m27wacdzns2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercode.bsky.social/post/3lzkhvbxqwv2g"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercode.bsky.social/post/3lzkh7j5qzx2j"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/mbissey.bsky.social/post/3lz43ye6wj42p"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/deepfakenews.bsky.social/post/3lynctrozq42q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/ohitsspyboy.bsky.social/post/3ly26gp2yt72a"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/tejaspassiveincome.bsky.social/post/3lxpj6aj42s2x"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/getnews-me.bsky.social/post/3lxpibfeh3a2v"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/u24usa.bsky.social/post/3lxpi44lwle2l"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/designtaxi.com/post/3lxgnxlj4s22i"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/jagvillani.bsky.social/post/3lxevcayglk2q"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Bluesky",
+      "url": "https://bsky.app/profile/undercode.bsky.social/post/3lwthkxbz4t2n"
+    },
+    {
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.wired.co.uk/article/molly-white-crypto-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://blog.toine.io/torcoin/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://medium.com/@joegaebel/crypto-scammers-piggybacking-trumps-twitter-feed-cloning-medium-and-stealing-bitcoin-f93c65ff13f6"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://rekt.news/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.bloomberg.com/news/features/2021-07-08/crypto-scams-rug-pulls-bitcoin-hacks-billions-lost-when-shit-coins-go-to-zero"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://apnews.com/article/cryptocurrency-fraud-fbi-report-29b412330ccebce946dec895f5060fd7"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://blog.avast.com/crypto-scams-taking-advantage-of-ukraine-conflict-avast"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://wolfstreet.com/2018/11/25/bitcoin-plunges-to-3738-whole-crypto-scam-melts-down-hedge-funds-stuck/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://zengo.com/qr-code-degenerators/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://blog.avast.com/beware-of-a-new-amazon-token-crypto-scam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://twitter.com/adyingnobody/status/1534021154674966529"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.popsci.com/technology/crypto-scam-starship-launch-livestream/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://bsky.app/profile/ericrie.se/post/3mbzlov44sc23"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=33574239"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://mattstoller.substack.com/p/why-didnt-the-government-stop-the"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=47030691"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.thebureauinvestigates.com/stories/2025-09-23/send-a-clear-message-law-firms-dirty-tactics-on-behalf-of-4bn-crypto-scam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.cyberdaily.au/security/10755-aussie-broadcaster-channel-seven-s-youtube-channels-replaced-with-elon-musk-crypto-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.forbes.com/sites/cyrusfarivar/2022/09/09/pig-butchering-crypto-super-scam/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=ORdWE_ffirg"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.salon.com/2022/02/16/nfts-arent-art--theyre-just-the-of-cryptos-latest-scam/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.cryptopolitan.com/crypto-scams-on-twitter-led-to-872k-losses/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.vice.com/en/article/crypto-scams-2023-total-losses/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.tomshardware.com/news/linus-tech-tips-youtube-channel-hacked-to-promote-crypto-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.cnbc.com/2022/01/06/crypto-scammers-took-a-record-14-billion-in-2021-chainalysis.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.wired.com/story/twitters-crypto-vigilantes-are-just-getting-started/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=43421009"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://mashable.com/article/fake-elon-musk-crypto-scam-youtube-livestreams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://web3isgoinggreat.com/single/vitalik-buterins-twitter-account-hacked"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://mashable.com/article/fake-elon-musk-crypto-scam-youtube-livestreams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.npr.org/2023/06/25/1180256165/crypto-scam-senior-victims-spirebit"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://addshore.com/2022/09/hunting-youtube-crypto-scams/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=IfztsVOGXk8"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=Kv6ne6VQCZI"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=26020117"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://english.kyodonews.net/articles/-/62767"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=ORdWE_ffirg"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/@euroresla"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://markets.businessinsider.com/news/currencies/crypto-crimes-woman-swindled-300000-bitcoin-hinge-romance-turned-scam-2022-2"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Criptomonedas",
       "fuente": "Hacker News",
       "url": "https://www.pyspur.dev/blog/cryptoscammers"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://twitter.com/tomscott/status/812265182646927361"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/#"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.ndtv.com/blog/how-i-fell-for-a-phishing-attack-my-story-by-nidhi-razdan-2353395"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://feross.org/html5-fullscreen-api-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://github.com/sophron/wifiphisher"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.seancassidy.me/lostpass.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://techcrunch.com/2016/02/29/snapchat-employee-data-leaks-out-following-phishing-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.tripwire.com/state-of-security/security-awareness/efficient-wi-fi-phishing-attacks-would-you-fall-for-that/#.WG0DNcFl3Ck.twitter"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://blogs.akamai.com/sitr/2019/02/phishing-attacks-against-facebook-google-via-google-translate.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.washingtonpost.com/world/germany-russia-cyber-attack/2021/09/06/7b9ca734-0f28-11ec-baca-86b144fc8a2d_story.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://www.threatsim.com"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://blog.ethereum.org/2016/06/24/security-alert-smart-contract-wallets-created-in-frontier-are-vulnerable-to-phishing-attacks/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://threatpost.com/auth0-glitch-allows-attackers-to-launch-phishing-attacks/132554/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://twitter.com/glenmaddern/status/1278252319646367744"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.theverge.com/2022/2/20/22943228/opensea-phishing-hack-smart-contract-bug-stolen-nft"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.ghacks.net/2023/05/15/googles-zip-top-level-domain-is-already-used-in-phishing-attacks/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://www.techrepublic.com/article/theres-a-new-gmail-phishing-attack-going-around-and-its-fooling-everyone/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/ongoing-flipper-zero-phishing-attacks-target-infosec-community/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.theregister.com/2022/11/01/dropbox_phishing_code_leak/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://github.com/ycombiinator/ycombinator-co/issues"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.smh.com.au/business/companies/masterchef-finalist-caught-in-conveyancing-hacker-attack-20180622-p4zn4o.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.icann.org/news/announcement-2-2014-12-16-en"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=13188126"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://blog.cloudflare.com/of-phishing-attacks-and-wordpress-0days/?"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://mailinator.blogspot.com/2017/05/mailinator-and-recent-google-docs.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://twitter.com/geoburke/status/1608253982387933184"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.theguardian.com/technology/2017/jan/10/browser-autofill-used-to-steal-personal-details-in-new-phising-attack-chrome-safari"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://tech.firstlook.media/anatomy-of-a-facebook-hosted-phishing-attack"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://twitter.com/lemogbenga/status/1624881422640062470"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.theverge.com/2017/5/3/15534768/google-docs-phishing-attack-share-this-document-with-you-spam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.securityweek.com/zendesk-hacked-after-employees-fall-for-phishing-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://twitter.com/pypi/status/1562442188285308929"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://grahamcluley.com/trezor-wallets-hacked-dont-be-duped-by-phishing-attack-email/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://blog.meldium.com/2013/5/8/protecting-your-company-from-phishing-attacks"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://9to5mac.com/2025/03/18/apples-passwords-app-was-vulnerable-to-phishing-attacks-for-nearly-three-months-after-launch/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/irs-warns-americans-of-massive-rise-in-sms-phishing-attacks/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://gizmodo.com/hacker-steals-nfts-from-opensea-users-phishing-attack-1848570135"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "https://code.firstlook.media/anatomy-of-a-facebook-hosted-phishing-attack"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Phishing",
       "fuente": "Hacker News",
       "url": "http://www.nextbigwhat.com/whatsapp-phishing-attacks-297/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://medium.com/truth-review/rayton-solar-legitimate-scam-in-between-7c8e5295265d"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "http://www.phaserinc.com/index1.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.ftc.gov/news-events/blogs/data-spotlight/2021/05/cryptocurrency-buzz-drives-record-investment-scam-losses"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "http://www.massively.com/2010/09/11/eve-online-player-steals-45-000-worth-of-isk-in-massive-investm/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.justice.gov/usao-ndoh/pr/ohio-man-loses-nearly-half-million-dollars-cryptocurrency-investment-scam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.occrp.org/en/project/scam-empire/scam-empire-inside-a-merciless-international-investment-scam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://digit.fyi/crypto-investment-scams-triple-fca/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "http://www.kikabink.com/news/beware-this-venture-capital-investment-scam/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.scmagazine.com/news/new-online-investment-scams-powered-by-bots-to-simulate-fake-experts"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2023/04/a-serial-tech-investment-scammer-takes-up-coding/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2021/05/investment-scammer-john-davies-reinvents-himself/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-urges-immediate-action-meta-prevent-investment-scam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.cbc.ca/news/canada/cbc-ads-fake-investment-scheme-1.7439812"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2023/04/a-serial-tech-investment-scammer-takes-up-coding/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.wsj.com/articles/crypto-frauds-target-investors-hoping-to-cash-in-on-bitcoin-boom-11623058380"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://krebsonsecurity.com/2021/05/investment-scammer-john-davies-reinvents-himself/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.economist.com/finance-and-economics/2021/03/27/the-impact-of-green-investors"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=13674927"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=47318462"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=44479661"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/six-arrested-for-ai-powered-investment-scams-that-stole-20-million/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://blog.confiant.com/cashrewindo-how-to-age-domains-for-an-investment-scam-like-fine-scotch-a48d22788c84"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://blog.confiant.com/cashrewindo-how-to-age-domains-for-an-investment-scam-like-fine-scotch-a48d22788c84"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.zdnet.com/article/300000-links-taken-down-in-crackdown-on-investment-scams-with-bogus-celebrity-endorsements/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.theguardian.com/world/2020/mar/01/revealed-fake-traders-allegedly-prey-on-victims-in-global-investment-scam"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "http://www.miamiherald.com/2010/06/01/1657702/even-gulf-oil-spill-attracts-investment.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://medium.com/@englishpaulm/investment-scam-a0c1ddc62f19"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=31736539"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=46823141"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.sverigesradio.se/artikel/thousands-of-small-savers-in-sweden-conned-out-of-millions-in-ai-powered-deepfake-investment-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://gizmodo.com/elon-musk-spacex-neuralink-grok-xai-investment-scam-2000669248"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://medium.com/@paltaparty/rayton-solar-legitimate-investment-or-scam-and-why-is-bill-nye-the-science-guy-promoting-it-18ed3c06bae2"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.vice.com/en/article/jgmjqk/north-korean-hackers-impersonate-major-crypto-investment-firm-to-scam-startups"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=35886945"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=14160018"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=44657708"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=25207018"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=44640835"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "http://news.yahoo.com/software-exec-charged-lego-bar-code-scam-131139992--abc-news-savings-and-investment.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://www.indiatoday.in/technology/news/story/investment-firm-vanishes-with-3-6-billion-in-bitcoin-in-possibly-the-biggest-bitcoin-scam-in-history-1820893-2021-06-30"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=5345985"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://kotaku.com/ftx-crypto-scam-gamestop-token-league-legends-sbf-nft-1849767748"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=382693"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Inversiones",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=5710063"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=34943047"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.bbc.co.uk/news/technology-56402378"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.coindesk.com/apple-co-founder-steve-wozniak-sues-youtube-over-bitcoin-giveaway-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=26067177"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://decrypt.co/26267/crypto-firm-ripple-sues-youtube-over-xrp-giveaway-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.bbc.com/news/technology-56402378"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://arxiv.org/abs/2405.09757"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://scaminvestigations.substack.com/p/crypto-giveaway-scammers-probably"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f584_paper.pdf"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://arxiv.org/abs/2205.12897"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=27862353"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=z2aVaCreUvI"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.coindesk.com/apple-co-founder-steve-wozniak-sues-youtube-over-bitcoin-giveaway-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://arxiv.org/abs/2205.12897"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://blog.btcbox.jp/en/archives/12701"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=s8yRY4e8J7Q"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://arxiv.org/abs/2205.12897"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=29154680"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://paradite.com/2017/03/14/free-giveaway-marketing-scam-linkedin/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://arxiv.org/abs/2405.09757"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://double-and-nothing.github.io/paper/ndss23-fall-final584.pdf"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.researchgate.net/publication/371727955_Understanding_the_Cryptocurrency_Free_Giveaway_Scam_Disseminated_on_Twitter_Lists"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.group-ib.com/media-center/press-releases/massive-crypto-attack/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=26223414"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.digitalinformationworld.com/2020/08/following-the-twitter-hack-hackers-are-now-hijacking-high-profile-youtube-channels-to-promote-bitcoin-giveaway-scams.html#"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.tenable.com/blog/cryptocurrency-scams-fake-giveaways-impersonate-followers-of-political-and-other-notable"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://medium.com/@cryptoinvestigations/xrp-giveaway-scams-return-to-youtube-with-a-vengeance-30k-day-profits-b701e09181e3"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.youtube.com/watch?v=WhRSutLFJA4&feature=emb_logo"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://medium.com/@robertyusert/youtube-xrp-giveaway-scammers-making-50-000-day-f0ee6909e621"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.bitcoinstacks.com/wbb/index.php?thread/15081-exclusive-interview-with-a-twitter-eth-giveaway-scam-ringleader-making-50k-100k/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.bitcoinstacks.com/wbb/index.php?thread/15081-exclusive-interview-with-a-twitter-eth-giveaway-scam-ringleader-making-50k-100k/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.bleepingcomputer.com/news/security/ethereum-giveaway-scammers-have-tricked-people-out-of-43-million/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=28557092"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=32845720"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=26165739"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=27656714"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=26957493"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://coinfomania.com/avoid-microstrategyfund-bitcoin-giveaway-scam/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.independent.co.uk/tech/youtube-bitcoin-giveaway-scam-elon-musk-ethereum-b2048425.html"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://bitok.org/blog/spacex_scam_giveaway_20_nov"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://medium.com/@cryptoinvestigations/youtube-xrp-giveaway-scammers-making-50-000-day-6074e57cae9b"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=32536078"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.tenable.com/blog/cryptocurrency-scams-fake-giveaways-impersonate-followers-of-political-and-other-notable"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.tenable.com/blog/cryptocurrency-scams-fake-giveaways-impersonate-followers-of-political-and-other-notable"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.tenable.com/blog/cash-app-scams-legitimate-giveaways-provide-boost-to-opportunistic-scammers"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.cryptoground.com/a/googles-official-twitter-account-hacked-scammers-promoted-bitcoin-giveaway"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=5345985"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://blog.cryptostars.is/how-scammers-are-using-fake-youtube-giveaway-stream-to-steal-crypto-worth-10-million-501f275d58a5"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Sorteos falsos",
       "fuente": "Hacker News",
       "url": "https://www.tenable.com/blog/scams-exploit-covid-19-giveaways-via-venmo-paypal-and-cash-app"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.queuemetrics.com/blog/2026/03/02/queuemetrics-protects-teams-impersonation/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.hollywoodreporter.com/business/digital/hollywood-celebrity-impersonation-scam-1236309121/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://medium.com/@gszathmari/email-impersonation-scams-phishing-what-your-staff-can-do-6d0c12661143"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.tenable.com/blog/tiktok-scams-how-social-currency-fuels-the-economy-for-impersonation-accounts-and-free"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://blog.ironbastion.com.au/email-impersonation-scams-phishing-what-your-staff-can-do/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.malwarebytes.com/blog/news/2025/03/semrush-impersonation-scam-hits-google-ads"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.theregister.com/2024/02/16/ftc_ai_fakes/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=24780352"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=46141001"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://therecord.media/spain-arrests-whatsapp-impersonation-scams"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.coindesk.com/business/2026/01/14/chainalysis-report-reveals-impersonation-and-ai-crypto-scams-surpass-cyberattacks"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=46665414"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=22928298"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://nexid.id"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.kaval.chat/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=32096656"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://get.b2v.xyz/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=5584589"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://get.b2v.xyz/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=48173182"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://github.com/stack-auth/stack"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.realitydefender.com/platform/api"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.username.dev"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=36041703"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.elitesaas.dev"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://www.gonc.cc/"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=46621156"
     },
     {
-      "fecha": "2026-06-27",
+      "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=1705944"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://about.gitlab.com/blog/2023/06/29/fake-gitlab-job-scam/"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.forbes.com/sites/mattnovak/2023/01/31/25-elon-musk-impersonator-scams-on-social-media-people-actually-fell-for/"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.ethicalads.io/blog/2022/09/watch-out-ad-scammers-are-impersonating-open-source-devs/"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://isc.sans.edu/forums/diary/No+Bitcoin+No+Problem+Follow+Up+to+Last+Weeks+Donation+Scam/28412"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.youtube.com/watch?v=qfUwJY0gyYU&ab_channel=ThePlainBagel"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://isc.sans.edu/forums/diary/Scam+EMail+Impersonating+Red+Cross/28404"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=8972822"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=2147959"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=42164448"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=34668844"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://www.kitv.com/video/news/state-warns-of-cybersecurity-phishing-threat-from-website-impersonating-state-government/video_c6f491c6-1fb9-58b9-9e21-055b727ec380.html"
+    },
+    {
+      "fecha": "2026-06-28",
+      "estafa": "Suplantación",
+      "fuente": "Hacker News",
+      "url": "https://magazine.atavist.com/not-fuzz-police-impersonator-santa-monica-steve-farzam"
     }
   ]
 }

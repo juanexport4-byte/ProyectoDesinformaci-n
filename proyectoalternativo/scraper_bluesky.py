@@ -41,11 +41,11 @@ if __name__ == "__main__":
     client = conectar("juan4-04.bsky.social", "ry7q-2ym3-pbz6-yehy")
 
     categorias = {
-        "Criptomonedas": "guaranteed returns crypto",
-        "Phishing": "your account has been suspended click",
-        "Inversiones": "DM me to start investing today",
-        "Sorteos falsos": "you have been selected winner claim now",
-        "Suplantación": "official support team verify account"
+         "Criptomonedas": "crypto scam AI",
+        "Phishing": "phishing LLM attack",
+        "Inversiones": "investment fraud deepfake",
+        "Sorteos falsos": "giveaway scam bot",
+        "Suplantación": "impersonation deepfake AI"
     }
 
     todos_los_datos = []
