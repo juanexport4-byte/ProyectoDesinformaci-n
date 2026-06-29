@@ -13,7 +13,64 @@
       142,
       129,
       119
-    ]
+    ],
+    "analisis": {
+      "Criptomonedas": {
+        "total_posts": 187,
+        "total_sospechosos": 44,
+        "porcentaje_sospechosos": 23.5,
+        "señales_frecuentes": {
+          "Pocos seguidores": 60,
+          "Cuenta reciente": 42,
+          "Sin descripción de perfil": 28,
+          "Ratio seguidos/seguidores alto": 4
+        }
+      },
+      "Phishing": {
+        "total_posts": 142,
+        "total_sospechosos": 23,
+        "porcentaje_sospechosos": 16.2,
+        "señales_frecuentes": {
+          "Ratio seguidos/seguidores alto": 5,
+          "Cuenta reciente": 38,
+          "Pocos seguidores": 34,
+          "Sin descripción de perfil": 20
+        }
+      },
+      "Inversiones": {
+        "total_posts": 129,
+        "total_sospechosos": 7,
+        "porcentaje_sospechosos": 5.4,
+        "señales_frecuentes": {
+          "Pocos seguidores": 25,
+          "Sin descripción de perfil": 4,
+          "Cuenta reciente": 71,
+          "Ratio seguidos/seguidores alto": 2
+        }
+      },
+      "Sorteos falsos": {
+        "total_posts": 172,
+        "total_sospechosos": 4,
+        "porcentaje_sospechosos": 2.3,
+        "señales_frecuentes": {
+          "Pocos seguidores": 28,
+          "Sin descripción de perfil": 7,
+          "Ratio seguidos/seguidores alto": 1,
+          "Cuenta reciente": 9
+        }
+      },
+      "Suplantación": {
+        "total_posts": 119,
+        "total_sospechosos": 18,
+        "porcentaje_sospechosos": 15.1,
+        "señales_frecuentes": {
+          "Pocos seguidores": 26,
+          "Sin descripción de perfil": 19,
+          "Cuenta reciente": 19,
+          "Ratio seguidos/seguidores alto": 2
+        }
+      }
+    }
   },
   "fuente2": {
     "nombre": "Hacker News",
@@ -3913,13 +3970,13 @@
       "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnhtrz7nvvh2"
+      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnhqhfuutwd2"
     },
     {
       "fecha": "2026-06-28",
       "estafa": "Suplantación",
       "fuente": "Bluesky",
-      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnhqhfuutwd2"
+      "url": "https://bsky.app/profile/android.activitypub.awakari.com.ap.brid.gy/post/3mnhtrz7nvvh2"
     },
     {
       "fecha": "2026-06-28",

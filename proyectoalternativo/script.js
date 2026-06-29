@@ -261,12 +261,47 @@ function volverInicio() {
 }
 
 // ── Modal ─────────────────────────────────────
-function abrirModal(etiqueta, cantidad) {
-  const nombre = datos[plataformaActual].nombre || plataformaActual
-  document.getElementById('modal-titulo').textContent    = etiqueta
-  document.getElementById('modal-plataforma').textContent = nombre.toUpperCase()
-  document.getElementById('modal-resumen').textContent   =
-    `Se detectaron ${cantidad} posts relacionados con "${etiqueta}" en ${nombre}.`
+function abrirModal(etiqueta) {
+  document.getElementById('modal-titulo').textContent = etiqueta
+  document.getElementById('modal-plataforma').textContent = plataformaActual === 'bluesky' ? 'Bluesky' : datos.fuente2.nombre
+
+  const contenido = document.getElementById('modal-resumen')
+
+  // Si es Bluesky y tiene análisis para esta categoría
+  if (plataformaActual === 'bluesky' && datos.bluesky.analisis && datos.bluesky.analisis[etiqueta]) {
+    const a = datos.bluesky.analisis[etiqueta]
+
+    // Ordenar señales de mayor a menor
+    const señalesOrdenadas = Object.entries(a.señales_frecuentes)
+      .sort((x, y) => y[1] - x[1])
+      .map(([señal, cantidad]) => `${señal}: ${cantidad} posts`)
+      .join('\n')
+
+    contenido.innerHTML = `
+      <div class="modal-stat">
+        <span class="modal-stat-label">Posts analizados</span>
+        <span class="modal-stat-valor">${a.total_posts}</span>
+      </div>
+      <div class="modal-stat">
+        <span class="modal-stat-label">Cuentas sospechosas (2+ señales)</span>
+        <span class="modal-stat-valor">${a.total_sospechosos} (${a.porcentaje_sospechosos}%)</span>
+      </div>
+      <div class="modal-señales">
+        <p class="modal-señales-titulo">Señales detectadas:</p>
+        ${Object.entries(a.señales_frecuentes)
+          .sort((x, y) => y[1] - x[1])
+          .map(([señal, cantidad]) => `
+            <div class="modal-señal-fila">
+              <span>${señal}</span>
+              <span class="modal-señal-count">${cantidad}</span>
+            </div>`)
+          .join('')}
+      </div>
+    `
+  } else {
+    contenido.innerHTML = '<p>Análisis no disponible para esta fuente.</p>'
+  }
+
   document.getElementById('modal-overlay').style.display = 'flex'
 }
 
