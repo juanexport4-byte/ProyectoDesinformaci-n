@@ -31,7 +31,7 @@ def buscar_categoria(client, categoria, termino, limite=10):
             "fuente": "Bluesky",
             "usuario": handle,
             "texto": post.record.text,
-            "url": url_post
+            "url": url_post,
         })
 
     return resultados
@@ -87,3 +87,10 @@ if __name__ == "__main__":
         json.dump(todos_los_datos, f, ensure_ascii=False, indent=4)
 
     print("Guardado en datos_bluesky.json")
+
+    with open("datos_bluesky.json", "r", encoding="utf-8") as f:
+        datos = json.load(f)
+
+    usuarios_unicos = set(post["usuario"] for post in datos)
+    print(f"Posts totales: {len(datos)}")
+    print(f"Usuarios únicos: {len(usuarios_unicos)}")
