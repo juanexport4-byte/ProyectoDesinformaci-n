@@ -642,3 +642,46 @@ a { color: var(--primary-container); text-decoration: none; }
     background: transparent !important;
     color: rgba(148,143,154,0.4) !important;
 }
+.modal-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #2a2a4a;
+}
+
+.modal-stat-label {
+  color: #888;
+  font-size: 13px;
+}
+
+.modal-stat-valor {
+  color: #CECBF6;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.modal-señales {
+  margin-top: 16px;
+}
+
+.modal-señales-titulo {
+  color: #888;
+  font-size: 12px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.modal-señal-fila {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px solid #2a2a4a;
+  font-size: 14px;
+}
+
+.modal-señal-count {
+  color: #CECBF6;
+  font-weight: bold;
+}
